@@ -90,7 +90,7 @@ disqusShortname = ""
       url = "blogs/le-déj-diffuseurs-et-numérique"
 
     [[params.tiles.showcase]]
-      title = "Infos pratiques"
+      title = "Inscriptions & Infos pratiques"
       subtitle = "Inscriptions et dons pour la semaine. Transports et plan pour venir au Cerisier, Bordeaux-Bacalan. [clique ici-->]"
       image = "pic06.jpg"
       url = "blogs/infos-pratiques"
