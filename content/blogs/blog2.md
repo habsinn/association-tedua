@@ -25,6 +25,8 @@ ARTISTES & ARTISANS :
        Le tout sera orchestré par La Veilleuse, association collaborative de diffusion d'art vivant, et de rencontres
        culturelles.
 
+![artisans](/img/artisans.jpg)
+
    ÉLÈVES :
 
        "Tout au public."
@@ -33,6 +35,8 @@ ARTISTES & ARTISANS :
        car c'est bien lui qui est témoin du jeu, non?
        Pendant ces matinées de stage de théâtre, vous serez invités à entrer dans le jeu.
        Public, ou comédien.
+
+![élèves](/img/eleves1.png)
 
    MEMBRES ACTIFS :
 
@@ -43,8 +47,8 @@ ARTISTES & ARTISANS :
    MUSICIENS :
 
        Lors des après midi de "KIJOU?", Des musiciens différents rencontrent les textes et le jeu, pour tous se retrouver le
-       samedi soir pour la sortie de résidence. De différentes influences, les mucisiens doivent composer en improvisation la
-       force profonde des textes "de l'enfance".
+       samedi soir pour la sortie de résidence. De différentes influences, les musiciens doivent composer en improvisation la force profonde des textes "De l'enfance".
+       Il y aura: Alex au saxophone, Amandine aux percussions corporelles, Simon à la batterie,  Mélissa au balafon, Habib à la flûte traversière.
 
    NUMERIQUE :
 
@@ -52,5 +56,7 @@ ARTISTES & ARTISANS :
        des trajectoire de diffusion qu'offre le territoire. Ce temps sera mise en scène, et accompagné par un repas organisé par
        Ben.
 
-  --> Revenir vers [les chemin(s) de la semaine](https://www.association-tedua.fr/blogs/chemins-de-la-semaine/)
-  --> Poursuivre la lecture vers [l'Atelier: Diffuseurs et Numérique ](https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/)
+![atelier numérique](/img/ateliernumerique.jpg)
+
+  --> Revenir vers [les chemin(s) de la semaine, Inscriptions et Infos pratiques](https://www.association-tedua.fr/blogs/chemins-de-la-semaine/)
+  --> Poursuivre la lecture vers [l'Atelier: Diffuseurs et Numérique? ](https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/)

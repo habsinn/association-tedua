@@ -72,10 +72,10 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Chemin(s) de la semaine"
-      subtitle = "Stage de théâtre et Répétitions quotidiennes ouvertes au public, Création & Spectacle grand public, Spectacle pour enfants, Apéritifs, Repas, Atelier de réflexion et conversation sur la Diffusion de spectacles... De l'élève au maître. De l'acteur au metteur en scène. Et toujours, au Public... [clique ici-->]"
+      title = "Chemin(s) de la semaine, Inscriptions et Infos pratiques"
+      subtitle = "Stage de théâtre, Création & Spectacle grand public, Spectacle pour enfants, Apéros, Déj', Atelier-conversation... De l'élève au maître. De l'acteur au metteur en scène. Et toujours, au Public! Par ici: les inscriptions pour une des activités proposées par Tedua (association de loi 1901 à but non lucratif), les transports et le plan pour venir au Cerisier (Bordeaux-Bacalan): [clique ici-->]"
       image = "pic02.jpg"
-      url = "blogs/chemins-de-la-semaine"
+      url = "blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques"
 
     [[params.tiles.showcase]]
       title = "Artistes & Faiseurs"
@@ -88,12 +88,6 @@ disqusShortname = ""
       subtitle = "L'art n'est là que pour autrui. Et là est précisément le pouvoir du diffuseur: d'où l'art doit-il être vu? pendant ces 2 heures de pause-déjeuner, 3 intervenants de Bordeaux, Lyon et Paris partageront leur vision du travail au croisement des arts vivants, outils numérique et des technologies libres pendant que... [clique ici-->]"
       image = "pic04.jpg"
       url = "blogs/le-déj-diffuseurs-et-numérique"
-
-    [[params.tiles.showcase]]
-      title = "Inscriptions & Infos pratiques"
-      subtitle = "Inscriptions pour une des activités auprès de Tedua (association de loi 1901 à but non lucratif). Transports et plan pour venir au Cerisier, Bordeaux-Bacalan. [clique ici-->]"
-      image = "pic06.jpg"
-      url = "blogs/infos-pratiques"
 
   [[params.tiles.showcase]]
       title = "Au-delà des 6 jours: FORMATIONS TEDUA"
@@ -169,12 +163,12 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com/UBUntout/"
+      url= "https://www.facebook.com/events/1987585964655561/"
       label = "Facebook"
 
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/habsinn/association-tedua"
       label = "GitHub"
 
     [[params.footer.quicklinks]]
