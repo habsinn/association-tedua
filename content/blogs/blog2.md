@@ -10,7 +10,6 @@ categories:
 date: 2017-10-31T22:26:09-05:00
 draft: false
 ---
-
 Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là.
 Pour le Public.
 
