@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Association TeDua"
-  description = "Domaine de l'expression libre. Car ICI, terre d'accueil enfin. Pour l'expression libre..."
+  description = "Face à la création de spectacles de théâtre et de clown, et par la discipline du jeu, l'association Tedua invite chacun à découvrir l'autre."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -33,7 +33,7 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "Cette page n'a pas pu être trouvée"
-    text = "Visite plutôt: www.association-tedua.fr pour y trouver la bonne information."
+    text = "Visiter plutôt *www.association-tedua.fr* pour y trouver la bonne information, ou nous contacter directement à l'adresse suivante: *diffusion@association-tedua.fr*."
 
   # Navigation Section
   [params.navigation]
@@ -41,9 +41,7 @@ disqusShortname = ""
     # Optional logo as brand stored in img/
     #logo = "logo.jpg"
 
-    [[params.navigation.links]]
-      name = "Vue générale"
-      url = "#"
+   
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -52,17 +50,37 @@ disqusShortname = ""
     #    name = "NameOfLink"
     #    url = "UrlOfLink"
 
+ 	[[params.navigation.links]]
+      name = "Accueil"
+      url = "#"
+
+    [[params.navigation.links]]
+      name = "Création de spectacles"
+      url = "accueil/les-creations-tedua"
+
+    [[params.navigation.links]]
+      name = "L'Ecole TeDua"
+      url = "accueil/les-formations-tedua"
+
+    [[params.navigation.links]]
+      name = "KIJOU? : résidence & festival"
+      url = "accueil/kijou"
+
+    [[params.navigation.links]]
+      name = "Informations pratiques"
+      url = "accueil/informations-pratiques"
+
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Nous LIRE"
+      name = "Journal de bord"
       url = "blogs"
 
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Six jours de Jeu au Cerisier"
-    subtitle = "Domaine de l'expression libre. Car ICI: terre d'accueil. Pour l'expression libre..."
+    title = "TEDUA"
+    subtitle = "Face à la création de spectacles de théâtre et de clown, et par la discipline du jeu, l'association Tedua invite chacun à découvrir l'autre."
     buttonText = "VIENS!"
 
 
@@ -72,49 +90,45 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "Chemin(s) de la semaine, Inscriptions et Infos pratiques"
-      subtitle = "Stage de théâtre, Création & Spectacle grand public, Spectacle pour enfants, Apéros, Déj', Atelier-conversation... De l'élève au maître. De l'acteur au metteur en scène. Et toujours, au Public! Par ici: les inscriptions pour une des activités proposées par Tedua (association de loi 1901 à but non lucratif), les transports et le plan pour venir au Cerisier (Bordeaux-Bacalan): [clique ici-->]"
-      image = "pic02.jpg"
-      url = "blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques"
+      title = "Création de spectacles"
+      subtitle = "L'association TeDua produit des créations professionnelles de théâtre et de clown, prêtes à être jouées et diffusées, pour tous les publics... [cliquer ici-->]"
+      image = "creation-spectacles.jpg"
+      url = "accueil/les-creations-tedua"
 
     [[params.tiles.showcase]]
-      title = "Artistes & Faiseurs"
-      subtitle = "Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes produiront cette semaine-là. Au service du Public. Viens rencontrer leurs expressions... [clique ici-->]"
+      title = "L'Ecole Tedua"
+      subtitle = "Tout au long de l'année, l'association TeDua propose des stages et des ateliers pour pratiquer la discipline du jeu enseignée par Jonathan Dupui. Du théâtre au clown, novice, amateur ou pro: bienvenue... [cliquer ici-->]"
       image = "pic03.jpg"
-      url = "blogs/artistes-et-faiseurs"
+      url = "accueil/l-ecole-tedua"
 
     [[params.tiles.showcase]]
-      title = "Le Déj': Diffuseurs & Numérique?"
-      subtitle = "L'art n'est là que pour autrui. Et là est précisément le pouvoir du diffuseur: d'où l'art doit-il être vu? pendant ces 2 heures de pause-déjeuner, 3 intervenants de Bordeaux, Lyon et Paris partageront leur vision du travail au croisement des arts vivants, outils numérique et des technologies libres pendant que... [clique ici-->]"
+      title = "KIJOU? : résidence & festival"
+      subtitle = "La première édition de KIJOU? a eu lieu au théâtre du Cerisier (Bordeaux Bacalan) du 22 au 27 octobre 2018. Entre résidence ouverte et festival tous publics, KIJOU? s'est déroulé sur 6 jours pour jouer, créer, accueillir, être ensemble. La 2ème édition se prépare pour l'été-automne 2019... [cliquer ici-->]"
       image = "pic04.jpg"
-      url = "blogs/le-déj-diffuseurs-et-numérique"
+      url = "accueil/kijou"
 
   [[params.tiles.showcase]]
-      title = "Au-delà des 6 jours: FORMATIONS TEDUA"
-      subtitle = "Tout au long de l'année, l'association TeDua te propose des stages, ateliers, formations au Jeu. Du théâtre au clown, amateur ou professionnel, qui que ce soit: viens et joue... [clique ici-->]"
+      title = "Informations pratiques"
+      subtitle = "Le calendrier des activités de TeDua, les visages de l'équipe motrice, les lieux d'enseignement et de rencontre, les statuts de l'association,... [cliquer ici-->]"
       image = "stages.png"
-      url = "blogs/formations-tedua"
+      url = "accueil/informations-pratiques"
 
-  [[params.tiles.showcase]]
-      title = "Au-delà des 6 jours: CRÉATIONS TEDUA"
-      subtitle = "L'association TeDua est aussi une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les âges... [clique ici-->]"
-      image = "creations.png"
-      url = "blogs/creations-tedua"
+ 
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
     # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
     # at the root of this Hugo site.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
     # To add more blogs just copy and paste the code.
 
   # Section Type Two
   [params.two]
     enable = true
-    title = "Vue d'ensemble"
-    subtitle = "Qui, Pourquoi, Comment? Ici, des textes disent... [clique -->]"
-    buttonText = "Viens lIRE"
+    title = "Journal de bord"
+    subtitle = " "
+    buttonText = "Lire des textes écrits par des membres de TeDua"
     url = "blogs"
 
 
@@ -142,36 +156,32 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     
     [[params.contact.email]]
-    title = "Email:"
+    title = "Email"
     email = "diffusion@association-tedua.fr"
 
     [[params.contact.phone]]
-    title = "Téléphone (Anne Lucie Dumay):"
+    title = "Téléphone (Anne Lucie Dumay)"
     phone = "06 15 60 97 04"
 
     [[params.contact.address]]
-    title = "Le Cerisier"
-    street = "7-11 rue Joseph Brunet"
-    city = "Bordeaux"
+    title = "Adresse de l'association TeDua"
+    street = "BORDEAUX METROPOLE"
+    city = "4 cité de la Digue, avenue Gaston Cabannes 33270 Floirac"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Assocation TeDua"
+    copyright = "[copyleft] Assocation TeDua "
 
     # Uses font awesome icons
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com/events/1987585964655561/"
+      url= "https://www.facebook.com/groups/386241745191819/"
       label = "Facebook"
 
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://github.com/habsinn/association-tedua"
-      label = "GitHub"
 
     [[params.footer.quicklinks]]
       text = "Design:"
-      url= "https://www.les-ethers-fertiles.blog"
+      url= "https://github.com/habsinn/association-tedua"
       alt = "Les Ethers Fertiles"

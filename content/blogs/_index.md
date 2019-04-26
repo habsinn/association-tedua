@@ -1,9 +1,9 @@
 ---
-title: "Des textes"
+title: "Journal de bord"
 slug: "blogs"
-image: pic02.jpg
+image: bannier-blogs.png
 date: 2017-10-31T22:27:21-05:00
 draft: false
 ---
 
-Ici, des textes qui disent: Pour Qui? Pourquoi? Comment? 
+
