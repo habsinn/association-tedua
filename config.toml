@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "TeDua te bienvenue"
+title = "Association TeDua"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -104,13 +104,13 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "KIJOU? : résidence & festival"
       subtitle = "La première édition de KIJOU? a eu lieu au théâtre du Cerisier (Bordeaux Bacalan) du 22 au 27 octobre 2018. Entre résidence ouverte et festival tous publics, KIJOU? s'est déroulé sur 6 jours pour jouer, créer, accueillir, être ensemble. La 2ème édition se prépare pour l'été-automne 2019... [cliquer ici-->]"
-      image = "pic04.jpg"
+      image = "pic04.png"
       url = "accueil/kijou"
 
   [[params.tiles.showcase]]
       title = "Informations pratiques"
       subtitle = "Le calendrier des activités de TeDua, les visages de l'équipe motrice, les lieux d'enseignement et de rencontre, les statuts de l'association,... [cliquer ici-->]"
-      image = "stages.png"
+      image = "stages.jpg"
       url = "accueil/informations-pratiques"
 
  
