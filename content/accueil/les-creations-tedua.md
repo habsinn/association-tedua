@@ -29,7 +29,9 @@ L’auteur a joué avec la parole du nouveau né, annonçant d’une clarté éb
 Le clown en errance a perdu ses couleurs jusqu’à leur souvenir.
 Par l’aide de la fée et des enfants, le clown ira rencontrer ses rêves et découvrira la voix pour les retrouver.    
 &nbsp;&nbsp;&nbsp;&nbsp;[-->Le site web du spectacle est visible ici<--](https://leclownetlafee.fr)   
-&nbsp;&nbsp;&nbsp;&nbsp;*Acteurs: Thibaud Ghidone, Julie Hercberg.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Acteurs: Thibaud Ghidone, Julie Hercberg.*   
+
+---
 
 ## CRÉATIONS ENDORMIES
 
@@ -54,8 +56,10 @@ Oeuvre maîtresse de l’auteur, « Gaspard ou la nuit de l’ombre » parle d
 Description en cours de rédaction.   
 
 **« Les sens des préjugés»**   
-Description en cours de rédaction.
-
+Description en cours de rédaction.   
+   
+---
+   
 ### CO-CREATIONS ET CREATIONS EXTERIEURES
 **« Private Joke»**   
 Description en cours de rédaction.  
