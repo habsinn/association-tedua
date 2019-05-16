@@ -55,7 +55,7 @@ Oeuvre maîtresse de l’auteur, « Gaspard ou la nuit de l’ombre » parle d
 **« Pour toi mon étoile»**   
 Description en cours de rédaction.   
 
-**« Les sens des préjugés»**   
+**« Les sens de la fuite»**   
 Description en cours de rédaction.   
    
 ---
