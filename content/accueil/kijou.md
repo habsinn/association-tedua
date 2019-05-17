@@ -5,9 +5,9 @@
 ### 1. APPEL & INVITATIONS POUR KIJOU? #2 (*Automne 2019*)
 
 
-<center> <img src="/img/kijou2-appel.png" alt="what image shows" height="580" width="580"> </center>
+<center> <img src="/img/kijou2-appel.png" alt="kijou? 1" height="710" width="630"> </center>
 
-<p style="text-align:center;">"On va vers là où est le jeu, parce que c'est là que ça va." - Jo</p>
+<p style="text-align:center;">"On va vers là où va le jeu, parce que c'est là que ça va." - Jo</p>
 
 -----
 
