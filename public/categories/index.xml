@@ -1,142 +1,983 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TeDua te bienvenue</title>
-    <link>/categories/</link>
-    <description>Recent content on TeDua te bienvenue</description>
+    <title>Association TeDua</title>
+    <link>/categories/index.xml</link>
+    <description>Recent content on Association TeDua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Infos pratiques</title>
+      <title>Informations pratiques</title>
+      <link>/accueil/informations-pratiques/</link>
+      <pubDate>Mon, 05 Feb 2018 18:28:43 +0000</pubDate>
+      
+      <guid>/accueil/informations-pratiques/</guid>
+      <description>
+
+&lt;p&gt;TEDUA est un espace de rencontre autour de la discipline du jeu de théâtre et de clown, ouvert a tous. En lire + sur l&amp;rsquo;intention et la vocation de TEDUA : par ici, par la ou encore la.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;1-comment-rejoindre-tedua&#34;&gt;1. COMMENT REJOINDRE TEDUA?&lt;/h2&gt;
+
+&lt;h4 id=&#34;contacter-anne-lucie&#34;&gt;&amp;mdash;&amp;mdash; CONTACTER ANNE LUCIE:&lt;/h4&gt;
+
+&lt;p&gt;Anne Lucie est la pour vous accueillir, repondre a vos questions et discuter des activites de l&amp;rsquo;association:&lt;br&gt;
+- par telephone au &lt;strong&gt;06 15 60 97 04&lt;/strong&gt;&lt;br /&gt;
+- par email a &lt;strong&gt;diffusion@association-tedua.fr&lt;/strong&gt;&lt;br /&gt;
+- en la rajoutant sur &lt;strong&gt;Facebook (&amp;ldquo;Anne-Lucie Dumay&amp;rdquo;)&lt;/strong&gt;, Messenger ou Instagram.&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;s-inscrire-aux-activites&#34;&gt;&amp;mdash;&amp;mdash; S&amp;rsquo;INSCRIRE AUX ACTIVITES:&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.helloasso.com/associations/tedua&#34;&gt;Cliquer ici pour atterrir sur notre profil HelloAsso&lt;/a&gt;&lt;/strong&gt;, ou il est possible de s&amp;rsquo;inscrire, reserver des places pour participer a une activite (voir ci-dessous &amp;ndash;&amp;gt; &lt;em&gt;2. TEDUA: C’EST QUOI? QUAND? et OU?&lt;/em&gt;), et payer directement en ligne.&lt;/p&gt;
+
+&lt;h4 id=&#34;nous-rencontrer&#34;&gt;&amp;mdash;&amp;mdash; NOUS RENCONTRER:&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Vous pouvez rejoindre le &lt;strong&gt;&lt;a href=&#34;https://www.facebook.com/groups/386241745191819/&#34;&gt;groupe facebook &amp;ldquo;Tedua&amp;rdquo; en cliquant sur ce lien&lt;/a&gt;&lt;/strong&gt; et consulter les derniers posts sur le groupe, ou encore contacter directement Anne Lucie -comme indique ci-dessus- pour qu&amp;rsquo;elle vous apporte des precisions sur nos prochaines rencontres.&lt;/li&gt;
+&lt;li&gt;Vous pouvez aussi consulter le &lt;strong&gt;calendrier&lt;/strong&gt; de toutes les activites de l&amp;rsquo;association pour la saison 2018-2019 - ci-apres- :&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;2-tedua-c-est-quoi-quand-et-ou&#34;&gt;2. TEDUA: C&amp;rsquo;EST QUOI? QUAND? et OU?&lt;/h2&gt;
+
+&lt;h4 id=&#34;calendrier-des-activites&#34;&gt;&amp;mdash;&amp;mdash; CALENDRIER DES ACTIVITES:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cloud.cestlebouquet.fr/index.php/apps/calendar/p/TBX7PdQc5PMbDrnA/Tedua-public&#34;&gt;Clique ICI pour voir le CALENDRIER des activites TeDua de Septembre 2018 a Aout 2019&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;Prochaines dates des formations:&lt;br /&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;CLOWN&lt;/strong&gt; (repetitions ouvertes a tous en tant que public, de 17h a 21h): &lt;strong&gt;28 avril,  12 mai, 2 juin&lt;/strong&gt;&lt;br /&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;THEATRE&lt;/strong&gt; (repetition ouvertes en tant que public et en tant que comedien): &lt;strong&gt;Week-end du 18-19 mai, WE du 15-16 juin&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;lieux-des-activites&#34;&gt;&amp;mdash;&amp;mdash; LIEUX DES ACTIVITES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;PESSAC&lt;/strong&gt;, dans le Dojo du Monteil (1 place du Monteil) pour les stages mensuels de jeu de &lt;strong&gt;THEATRE&lt;/strong&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;BORDEAUX&lt;/strong&gt;, dans le quartier des Chartrons (Studio Akasha, 71 Cours Edouard Vaillant) pour les ateliers de jeu du &lt;strong&gt;CLOWN&lt;/strong&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;ainsi que dans differentes salles au gre des opportunites de pret et de location pour faire repeter les comediens qui preparent un spectacle, ou encore les eleves au fil des appels et des projets qui apparaissent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;resume-des-activites&#34;&gt;&amp;mdash;&amp;mdash; RESUME DES ACTIVITES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;L&amp;rsquo;Ecole TeDua&lt;/strong&gt;: &lt;a href=&#34;http://localhost:1313/accueil/l-ecole-tedua/&#34;&gt;ateliers clown, stages de théâtre (ados et adultes, tous niveaux), préparation aux concours (ados et adultes, ambition professionnelle), art thérapie (ados et adultes), sont decrits + en detail ICI&lt;/a&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Les créations&lt;/strong&gt;: &lt;a href=&#34;http://localhost:1313/accueil/les-creations-tedua/&#34;&gt;liste des spectacles de théâtre et de clown ecrits et mis en scene par Jonathan Dupui disponible ICI&lt;/a&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Le festival-residence KIJOU?&lt;/strong&gt; : &lt;a href=&#34;http://localhost:1313/accueil/kijou/&#34;&gt;toutes les informations concernant KIJOU? sont disponibles ICI&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;3-tedua-c-est-qui&#34;&gt;3. TEDUA: C&amp;rsquo;EST QUI ?&lt;/h2&gt;
+
+&lt;h3 id=&#34;la-collegiale-et-l-animation&#34;&gt;&amp;mdash;- La collegiale et l&amp;rsquo;animation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;TeDua est une association de loi 1901 a but non lucratif dont le conseil d&amp;rsquo;administration est formée en &lt;strong&gt;COLLEGIALE&lt;/strong&gt; (exemples d&amp;rsquo;articles expliquant le terme &amp;ldquo;collégiale&amp;rdquo; ici), et dont les membres sont:&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Anne Lucie Dumay (Floirac , Bordeaux)&lt;/strong&gt;: est eleve de theatre de Jonathan depuis 2 ans,  a l&amp;rsquo;origine  de la creation de TeDua, et aujourd&amp;rsquo;hui en charge de la coordination et de la vie scolaire pour les eleves de TeDua. Elle aime la recherche en anthropologie (titulaire d&amp;rsquo;un master) et a ete animatrice de theatre en TAP dans 4 ecoles primaires de Bordeaux-Rives Droite pour les 7 a 10 ans. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Elsa Goulley (St Germain du Puch - Paris)&lt;/strong&gt;: eleve de Jonathan depuis septembre 2017, elle vit maintenant a Paris, suit des etudes de litterature a la sorbonne et suit des cours au conservatoire de theatre en region parisienne. Cette annee elle se prepare aux grandes ecoles de theatre, et met en scene le spectacle de la troupe amateur.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Tristan Leyri (Bordeaux)&lt;/strong&gt;: est realisateur de documentaire, cadreur, monteur,  il apporte ses competences en creation video et son a l&amp;rsquo;association. Il a ete eleve de Jonathan en theatre pendant 1 an -spectacle amateur: &amp;ldquo;Et si on arretait avec les questions existentielles une bonne fois pour toute?&amp;rdquo;- et suit cette annee les cours de l&amp;rsquo;atelier clown pour le spectacle amateur de juin-juillet 2019.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Emmanuelle Meffray (Toulouse)&lt;/strong&gt;: est eleve des stages de theatre depuis 2017. Elle est professeur de biologie dans un lycee agricole et artiste slammeuse. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Ronan Lestrade (Bordeaux)&lt;/strong&gt;:  est eleve de theatre et de clown de Jonathan depuis 1 an et demi. Il a recemment ete diplome d&amp;rsquo;un master en droit.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Alexandre Giraud (Bordeaux)&lt;/strong&gt;: eleve de theatre et de clown de Jonathan depuis. Il a egalement ecrit et mis en scene ses propres spectacles sur differents projets, et vient de terminer son master specialite ESS a Sciences Po.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Habib Belaribi (Pessac - Floirac)&lt;/strong&gt;: eleve de theatre et clown depuis 14 mois, il coordonne l&amp;rsquo;administration et la communication de l&amp;rsquo;association. Son metier: consultant-formateur en communication et en economie pair-a-pair. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Astrid Desache (Langoiran)&lt;/strong&gt;: eleve de theatre et de clown depuis 1 an. Elle est artisane-maroquiniere. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Christophe Dumay (Chatellerault)&lt;/strong&gt;: est un des participants aux seances d&amp;rsquo;art therapie animees par Jonathan, et conseille l&amp;rsquo;association pour la mise en place de ses partenariats. Il est aussi retraite de la DRH de la SNCF, et clarinettiste. &lt;br&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Les membres de la collegiale prennent soin de l&amp;rsquo;association au gre de leurs disponibilites, et se rencontrent regulierement pour jouer ensemble lors des formations de l&amp;rsquo;association ou encore pour boire un verre. Ils decident au fil de l&amp;rsquo;eau a quoi l&amp;rsquo;&lt;strong&gt;argent recolte&lt;/strong&gt; (inscriptions, dons&amp;hellip;) va servir. Jusqu&amp;rsquo;a present: a payer les couts materiels, a payer les heures d&amp;rsquo;enseignement, a nourrir les projets artistiques des uns et des autres au gre des demandes et des opportunites de tous les adherents de l&amp;rsquo;association qui le demandent.
+[Les comptes sont accessibles a tout adherent a l&amp;rsquo;association sur ce lien]().&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Siege social&lt;/strong&gt;: 33 allee de la Cannelle, bat 4-2 33600 Pessac.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Adresse postale&lt;/strong&gt;: 4 cite de la Digue, avenue Gaston Cabannes 33270 Floirac.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;l-enseignement-et-l-equipe-pedagogique&#34;&gt;&amp;mdash;- L&amp;rsquo;enseignement et l&amp;rsquo;equipe pedagogique&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;L&amp;rsquo;ENSEIGNEMENT de la discipline du jeu&lt;/strong&gt; est concu et transmis par &lt;strong&gt;Jonathan Dupui&lt;/strong&gt;. &lt;br&gt;&lt;br /&gt;
+Jonathan a fait le &lt;strong&gt;conservatoire de Mérignac&lt;/strong&gt; de septembre 2006 à juillet 2009. Tout en travaillant le jeu, à écrire et mettre en scène différents projets, Gérard David le lance en tant que professeur de théâtre à la fois pour les adultes et pour les enfants, au sein de la &lt;strong&gt;compagnie les Labyrinthes&lt;/strong&gt; dès 2007. Il a vu en lui une spontanéité et un sens de la pédagogie que Jonathan a su exploiter, puisqu’aujourd’hui, son enseignement permet aux débutant-e-s comme au comédien-ne-s professionnel-le-s, de découvrir un nouvel espace : celui de l’exactitude de Où se trouve le jeu. &lt;br&gt; Sur ces &lt;strong&gt;12 dernières années&lt;/strong&gt;, il &lt;strong&gt;écrit 11 pièces&lt;/strong&gt; et &lt;strong&gt;met en scène 14 spectacles&lt;/strong&gt; (en savoir + par ici) dont &lt;strong&gt;1 Opéra&lt;/strong&gt;. Il &lt;strong&gt;joue dans 18 pièces&lt;/strong&gt; et fréquente une cinquantaine de lieux différents à travers la France. Enfin, il &lt;strong&gt;a diffusé son enseignement à 150 personnes environ&lt;/strong&gt;, enfants, adolescents et adultes confondus.&lt;br&gt; Apres avoir créé sa compagnie de théâtre UBU&amp;amp;tout en 2013 pour porter ses oeuvres et son enseignement, il s’associe en septembre 2016 avec Anne Lucie Dumay et ils lancent ensemble les premiers stages pour adultes un weekend par mois au sein de l’association TeDua.
+&lt;strong&gt;L’Ecole TeDua&lt;/strong&gt; accueille aujourd’hui (saison 2019-2020) &lt;strong&gt;plus de 70 éleves&lt;/strong&gt; au sein des stages de théâtre mensuels au Dojo du Monteil (Pessac), des ateliers clowns bi-mensuels au Studio 71 (Bordeaux-Chartrons), et de la troupe de théâtre amateure.&lt;br&gt; Jonathan est basé à: Floirac (33), dans la Communaute Urbaine de Bordeaux.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Comme dans tout espace qui se structure en ecole, l&amp;rsquo;enseignant est epaule par des &lt;strong&gt;ACCOMPAGNATEURS&lt;/strong&gt; qui animent la vie scolaire et aident a l&amp;rsquo;orientation des eleves, en les personnes d&amp;rsquo;&lt;strong&gt;Anne Lucie Dumay&lt;/strong&gt; et d&amp;rsquo;&lt;strong&gt;Habib Belaribi&lt;/strong&gt; (voir plus haut dans les membres de la collegiale) bases a Floirac(33) et a Pessac(33). &lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;aujourd-hui-l-ecole-tedua-cherche-un-ancrage-territorial-plus-fort-dans-une-ville-prete-a-la-soutenir-dans-cette-demarche-qui-offre-le-theatre-comme-un-espace-de-mediation-d-experimentation-d-enrichissement-du-vivre-ensemble-plutot-que-comme-un-simple-divertissement-artistique-organise-en-sous-secteur-d-activite-culturelle-afin-de-se-developper-au-sein-d-un-lieu-d-accueil-et-d-enseignement-fixe-sur-des-cycles-de-3-ans&#34;&gt;&lt;strong&gt;Aujourd&amp;rsquo;hui, l&amp;rsquo;Ecole Tedua cherche un ancrage territorial plus fort dans une ville prete a la soutenir dans cette demarche qui offre le theatre comme un espace de mediation, d&amp;rsquo;experimentation, d&amp;rsquo;enrichissement du vivre ensemble&lt;/strong&gt; plutot que comme un simple  divertissement artistique organise en sous-secteur d&amp;rsquo;activite culturelle, &lt;strong&gt;afin de se developper au sein d&amp;rsquo;un lieu d&amp;rsquo;accueil et d&amp;rsquo;enseignement fixe, sur des cycles de 3 ans.&lt;/strong&gt;&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Informations pratiques</title>
+      <link>/accueil/informations-pratiques/</link>
+      <pubDate>Mon, 05 Feb 2018 18:28:43 +0000</pubDate>
+      
+      <guid>/accueil/informations-pratiques/</guid>
+      <description>
+
+&lt;p&gt;TEDUA est un espace de rencontre autour de la discipline du jeu de théâtre et de clown, ouvert a tous. En lire + sur l&amp;rsquo;intention et la vocation de TEDUA : par ici, par la ou encore la.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;1-comment-rejoindre-tedua&#34;&gt;1. COMMENT REJOINDRE TEDUA?&lt;/h2&gt;
+
+&lt;h4 id=&#34;contacter-anne-lucie&#34;&gt;&amp;mdash;&amp;mdash; CONTACTER ANNE LUCIE:&lt;/h4&gt;
+
+&lt;p&gt;Anne Lucie est la pour vous accueillir, repondre a vos questions et discuter des activites de l&amp;rsquo;association:&lt;br&gt;
+- par telephone au &lt;strong&gt;06 15 60 97 04&lt;/strong&gt;&lt;br /&gt;
+- par email a &lt;strong&gt;diffusion@association-tedua.fr&lt;/strong&gt;&lt;br /&gt;
+- en la rajoutant sur &lt;strong&gt;Facebook (&amp;ldquo;Anne-Lucie Dumay&amp;rdquo;)&lt;/strong&gt;, Messenger ou Instagram.&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;s-inscrire-aux-activites&#34;&gt;&amp;mdash;&amp;mdash; S&amp;rsquo;INSCRIRE AUX ACTIVITES:&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.helloasso.com/associations/tedua&#34;&gt;Cliquer ici pour atterrir sur notre profil HelloAsso&lt;/a&gt;&lt;/strong&gt;, ou il est possible de s&amp;rsquo;inscrire, reserver des places pour participer a une activite (voir ci-dessous &amp;ndash;&amp;gt; &lt;em&gt;2. TEDUA: C’EST QUOI? QUAND? et OU?&lt;/em&gt;), et payer directement en ligne.&lt;/p&gt;
+
+&lt;h4 id=&#34;nous-rencontrer&#34;&gt;&amp;mdash;&amp;mdash; NOUS RENCONTRER:&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Vous pouvez rejoindre le &lt;strong&gt;&lt;a href=&#34;https://www.facebook.com/groups/386241745191819/&#34;&gt;groupe facebook &amp;ldquo;Tedua&amp;rdquo; en cliquant sur ce lien&lt;/a&gt;&lt;/strong&gt; et consulter les derniers posts sur le groupe, ou encore contacter directement Anne Lucie -comme indique ci-dessus- pour qu&amp;rsquo;elle vous apporte des precisions sur nos prochaines rencontres.&lt;/li&gt;
+&lt;li&gt;Vous pouvez aussi consulter le &lt;strong&gt;calendrier&lt;/strong&gt; de toutes les activites de l&amp;rsquo;association pour la saison 2018-2019 - ci-apres- :&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;2-tedua-c-est-quoi-quand-et-ou&#34;&gt;2. TEDUA: C&amp;rsquo;EST QUOI? QUAND? et OU?&lt;/h2&gt;
+
+&lt;h4 id=&#34;calendrier-des-activites&#34;&gt;&amp;mdash;&amp;mdash; CALENDRIER DES ACTIVITES:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cloud.cestlebouquet.fr/index.php/apps/calendar/p/TBX7PdQc5PMbDrnA/Tedua-public&#34;&gt;Clique ICI pour voir le CALENDRIER des activites TeDua de Septembre 2018 a Aout 2019&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;Prochaines dates des formations:&lt;br /&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;CLOWN&lt;/strong&gt; (repetitions ouvertes a tous en tant que public, de 17h a 21h): &lt;strong&gt;28 avril,  12 mai, 2 juin&lt;/strong&gt;&lt;br /&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;THEATRE&lt;/strong&gt; (repetition ouvertes en tant que public et en tant que comedien): &lt;strong&gt;Week-end du 18-19 mai, WE du 15-16 juin&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;lieux-des-activites&#34;&gt;&amp;mdash;&amp;mdash; LIEUX DES ACTIVITES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;PESSAC&lt;/strong&gt;, dans le Dojo du Monteil (1 place du Monteil) pour les stages mensuels de jeu de &lt;strong&gt;THEATRE&lt;/strong&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;BORDEAUX&lt;/strong&gt;, dans le quartier des Chartrons (Studio Akasha, 71 Cours Edouard Vaillant) pour les ateliers de jeu du &lt;strong&gt;CLOWN&lt;/strong&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;ainsi que dans differentes salles au gre des opportunites de pret et de location pour faire repeter les comediens qui preparent un spectacle, ou encore les eleves au fil des appels et des projets qui apparaissent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;resume-des-activites&#34;&gt;&amp;mdash;&amp;mdash; RESUME DES ACTIVITES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;L&amp;rsquo;Ecole TeDua&lt;/strong&gt;: &lt;a href=&#34;http://localhost:1313/accueil/l-ecole-tedua/&#34;&gt;ateliers clown, stages de théâtre (ados et adultes, tous niveaux), préparation aux concours (ados et adultes, ambition professionnelle), art thérapie (ados et adultes), sont decrits + en detail ICI&lt;/a&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Les créations&lt;/strong&gt;: &lt;a href=&#34;http://localhost:1313/accueil/les-creations-tedua/&#34;&gt;liste des spectacles de théâtre et de clown ecrits et mis en scene par Jonathan Dupui disponible ICI&lt;/a&gt;.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Le festival-residence KIJOU?&lt;/strong&gt; : &lt;a href=&#34;http://localhost:1313/accueil/kijou/&#34;&gt;toutes les informations concernant KIJOU? sont disponibles ICI&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;3-tedua-c-est-qui&#34;&gt;3. TEDUA: C&amp;rsquo;EST QUI ?&lt;/h2&gt;
+
+&lt;h3 id=&#34;la-collegiale-et-l-animation&#34;&gt;&amp;mdash;- La collegiale et l&amp;rsquo;animation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;TeDua est une association de loi 1901 a but non lucratif dont le conseil d&amp;rsquo;administration est formée en &lt;strong&gt;COLLEGIALE&lt;/strong&gt; (exemples d&amp;rsquo;articles expliquant le terme &amp;ldquo;collégiale&amp;rdquo; ici), et dont les membres sont:&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Anne Lucie Dumay (Floirac , Bordeaux)&lt;/strong&gt;: est eleve de theatre de Jonathan depuis 2 ans,  a l&amp;rsquo;origine  de la creation de TeDua, et aujourd&amp;rsquo;hui en charge de la coordination et de la vie scolaire pour les eleves de TeDua. Elle aime la recherche en anthropologie (titulaire d&amp;rsquo;un master) et a ete animatrice de theatre en TAP dans 4 ecoles primaires de Bordeaux-Rives Droite pour les 7 a 10 ans. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Elsa Goulley (St Germain du Puch - Paris)&lt;/strong&gt;: eleve de Jonathan depuis septembre 2017, elle vit maintenant a Paris, suit des etudes de litterature a la sorbonne et suit des cours au conservatoire de theatre en region parisienne. Cette annee elle se prepare aux grandes ecoles de theatre, et met en scene le spectacle de la troupe amateur.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Tristan Leyri (Bordeaux)&lt;/strong&gt;: est realisateur de documentaire, cadreur, monteur,  il apporte ses competences en creation video et son a l&amp;rsquo;association. Il a ete eleve de Jonathan en theatre pendant 1 an -spectacle amateur: &amp;ldquo;Et si on arretait avec les questions existentielles une bonne fois pour toute?&amp;rdquo;- et suit cette annee les cours de l&amp;rsquo;atelier clown pour le spectacle amateur de juin-juillet 2019.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Emmanuelle Meffray (Toulouse)&lt;/strong&gt;: est eleve des stages de theatre depuis 2017. Elle est professeur de biologie dans un lycee agricole et artiste slammeuse. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Ronan Lestrade (Bordeaux)&lt;/strong&gt;:  est eleve de theatre et de clown de Jonathan depuis 1 an et demi. Il a recemment ete diplome d&amp;rsquo;un master en droit.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Alexandre Giraud (Bordeaux)&lt;/strong&gt;: eleve de theatre et de clown de Jonathan depuis. Il a egalement ecrit et mis en scene ses propres spectacles sur differents projets, et vient de terminer son master specialite ESS a Sciences Po.&lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Habib Belaribi (Pessac - Floirac)&lt;/strong&gt;: eleve de theatre et clown depuis 14 mois, il coordonne l&amp;rsquo;administration et la communication de l&amp;rsquo;association. Son metier: consultant-formateur en communication et en economie pair-a-pair. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Astrid Desache (Langoiran)&lt;/strong&gt;: eleve de theatre et de clown depuis 1 an. Elle est artisane-maroquiniere. &lt;br&gt;
+&amp;ndash;&amp;gt; &lt;strong&gt;Christophe Dumay (Chatellerault)&lt;/strong&gt;: est un des participants aux seances d&amp;rsquo;art therapie animees par Jonathan, et conseille l&amp;rsquo;association pour la mise en place de ses partenariats. Il est aussi retraite de la DRH de la SNCF, et clarinettiste. &lt;br&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Les membres de la collegiale prennent soin de l&amp;rsquo;association au gre de leurs disponibilites, et se rencontrent regulierement pour jouer ensemble lors des formations de l&amp;rsquo;association ou encore pour boire un verre. Ils decident au fil de l&amp;rsquo;eau a quoi l&amp;rsquo;&lt;strong&gt;argent recolte&lt;/strong&gt; (inscriptions, dons&amp;hellip;) va servir. Jusqu&amp;rsquo;a present: a payer les couts materiels, a payer les heures d&amp;rsquo;enseignement, a nourrir les projets artistiques des uns et des autres au gre des demandes et des opportunites de tous les adherents de l&amp;rsquo;association qui le demandent.
+[Les comptes sont accessibles a tout adherent a l&amp;rsquo;association sur ce lien]().&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Siege social&lt;/strong&gt;: 33 allee de la Cannelle, bat 4-2 33600 Pessac.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Adresse postale&lt;/strong&gt;: 4 cite de la Digue, avenue Gaston Cabannes 33270 Floirac.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;l-enseignement-et-l-equipe-pedagogique&#34;&gt;&amp;mdash;- L&amp;rsquo;enseignement et l&amp;rsquo;equipe pedagogique&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;L&amp;rsquo;ENSEIGNEMENT de la discipline du jeu&lt;/strong&gt; est concu et transmis par &lt;strong&gt;Jonathan Dupui&lt;/strong&gt;. &lt;br&gt;&lt;br /&gt;
+Jonathan a fait le &lt;strong&gt;conservatoire de Mérignac&lt;/strong&gt; de septembre 2006 à juillet 2009. Tout en travaillant le jeu, à écrire et mettre en scène différents projets, Gérard David le lance en tant que professeur de théâtre à la fois pour les adultes et pour les enfants, au sein de la &lt;strong&gt;compagnie les Labyrinthes&lt;/strong&gt; dès 2007. Il a vu en lui une spontanéité et un sens de la pédagogie que Jonathan a su exploiter, puisqu’aujourd’hui, son enseignement permet aux débutant-e-s comme au comédien-ne-s professionnel-le-s, de découvrir un nouvel espace : celui de l’exactitude de Où se trouve le jeu. &lt;br&gt; Sur ces &lt;strong&gt;12 dernières années&lt;/strong&gt;, il &lt;strong&gt;écrit 11 pièces&lt;/strong&gt; et &lt;strong&gt;met en scène 14 spectacles&lt;/strong&gt; (en savoir + par ici) dont &lt;strong&gt;1 Opéra&lt;/strong&gt;. Il &lt;strong&gt;joue dans 18 pièces&lt;/strong&gt; et fréquente une cinquantaine de lieux différents à travers la France. Enfin, il &lt;strong&gt;a diffusé son enseignement à 150 personnes environ&lt;/strong&gt;, enfants, adolescents et adultes confondus.&lt;br&gt; Apres avoir créé sa compagnie de théâtre UBU&amp;amp;tout en 2013 pour porter ses oeuvres et son enseignement, il s’associe en septembre 2016 avec Anne Lucie Dumay et ils lancent ensemble les premiers stages pour adultes un weekend par mois au sein de l’association TeDua.
+&lt;strong&gt;L’Ecole TeDua&lt;/strong&gt; accueille aujourd’hui (saison 2019-2020) &lt;strong&gt;plus de 70 éleves&lt;/strong&gt; au sein des stages de théâtre mensuels au Dojo du Monteil (Pessac), des ateliers clowns bi-mensuels au Studio 71 (Bordeaux-Chartrons), et de la troupe de théâtre amateure.&lt;br&gt; Jonathan est basé à: Floirac (33), dans la Communaute Urbaine de Bordeaux.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Comme dans tout espace qui se structure en ecole, l&amp;rsquo;enseignant est epaule par des &lt;strong&gt;ACCOMPAGNATEURS&lt;/strong&gt; qui animent la vie scolaire et aident a l&amp;rsquo;orientation des eleves, en les personnes d&amp;rsquo;&lt;strong&gt;Anne Lucie Dumay&lt;/strong&gt; et d&amp;rsquo;&lt;strong&gt;Habib Belaribi&lt;/strong&gt; (voir plus haut dans les membres de la collegiale) bases a Floirac(33) et a Pessac(33). &lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;aujourd-hui-l-ecole-tedua-cherche-un-ancrage-territorial-plus-fort-dans-une-ville-prete-a-la-soutenir-dans-cette-demarche-qui-offre-le-theatre-comme-un-espace-de-mediation-d-experimentation-d-enrichissement-du-vivre-ensemble-plutot-que-comme-un-simple-divertissement-artistique-organise-en-sous-secteur-d-activite-culturelle-afin-de-se-developper-au-sein-d-un-lieu-d-accueil-et-d-enseignement-fixe-sur-des-cycles-de-3-ans&#34;&gt;&lt;strong&gt;Aujourd&amp;rsquo;hui, l&amp;rsquo;Ecole Tedua cherche un ancrage territorial plus fort dans une ville prete a la soutenir dans cette demarche qui offre le theatre comme un espace de mediation, d&amp;rsquo;experimentation, d&amp;rsquo;enrichissement du vivre ensemble&lt;/strong&gt; plutot que comme un simple  divertissement artistique organise en sous-secteur d&amp;rsquo;activite culturelle, &lt;strong&gt;afin de se developper au sein d&amp;rsquo;un lieu d&amp;rsquo;accueil et d&amp;rsquo;enseignement fixe, sur des cycles de 3 ans.&lt;/strong&gt;&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oct 2018 // Festival KIJOU? #1 : Informations pratiques</title>
       <link>/blogs/infos-pratiques/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/blogs/infos-pratiques/</guid>
-      <description>Pour financer l&amp;rsquo;évènement, nous faisons le choix de faire confiance au 3ème regard, à celui du Public qui seul recoit ce qui est donné.
-&amp;ndash;&amp;gt; Par ici le POT COMMUN Helloasso pour S&amp;rsquo;INSCRIRE à l&amp;rsquo;évènement.
-&amp;mdash;&amp;gt; Résumé de la semaine au Cerisier:
-   QUI QUOI OÙ QUAND COMMENT POURQUOI     Artistes et Faiseurs Formation au jeu &amp;amp; Créations: &amp;ldquo;De l&amp;rsquo;Enfance&amp;rdquo; (tous publics) et &amp;ldquo;Le clown et le fée&amp;rdquo; (enfants et familles).</description>
+      <description>&lt;p&gt;Pour financer l&amp;rsquo;évènement, nous faisons le choix de faire confiance au 3ème regard,
+à celui du Public qui seul recoit ce qui est donné.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Par ici &lt;a href=&#34;https://www.helloasso.com/associations/tedua/collectes/kijou-6-jours-de-jeu-ensemble-au-cerisier&#34;&gt;le POT COMMUN Helloasso pour S&amp;rsquo;INSCRIRE à l&amp;rsquo;évènement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/helloasso.png&#34; alt=&#34;Pot commun sur HelloAsso&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash;&amp;gt; Résumé de la semaine au Cerisier:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;QUI&lt;/th&gt;
+&lt;th&gt;QUOI&lt;/th&gt;
+&lt;th&gt;OÙ&lt;/th&gt;
+&lt;th&gt;QUAND&lt;/th&gt;
+&lt;th&gt;COMMENT&lt;/th&gt;
+&lt;th&gt;POURQUOI&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;Artistes et Faiseurs&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Formation au jeu &amp;amp; Créations: &amp;ldquo;De l&amp;rsquo;Enfance&amp;rdquo; (tous publics) et &amp;ldquo;Le clown et le fée&amp;rdquo; (enfants et familles). L&amp;rsquo;&lt;a href=&#34;https://www.facebook.com/events/1987585964655561/permalink/1993489544065203/&#34;&gt;ÉVÈNEMENT FACEBOOK est par ici&lt;/a&gt;.&lt;/td&gt;
+&lt;td&gt;Le Cerisier: &lt;a href=&#34;https://www.openstreetmap.org/node/2501777908#map=16/44.8742/-0.5460&#34;&gt;7-11 rue Joseph Brunet, à Bordeaux Bacalan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Du Lundi 22 au Samedi 27 Octobre 2018, les portes s&amp;rsquo;ouvrent tous les jours de 8h à 22h &lt;a href=&#34;https://www.association-tedua.fr/blogs/chemins-de-la-semaine/&#34;&gt;planning complet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Tram B: arrêt Brandenburg, Bus: y en a. Nourriture: décidée spontanément ensemble chaque jour les lundi-mardi-jeudi-vendredi, organisée le mercredi midi (repas bio vegan sans gluten), et jus de fruits maison bio à prix coûtants le samedi soir&lt;/td&gt;
+&lt;td&gt;Être ensemble.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Revenir vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/&#34;&gt;l&amp;rsquo;Atelier: Diffuseurs et Numérique &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Infos pratiques</title>
+      <title>Oct 2018 // Festival KIJOU? #1 : Informations pratiques</title>
       <link>/blogs/infos-pratiques/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>/blogs/infos-pratiques/</guid>
-      <description>Pour financer l&amp;rsquo;évènement, nous faisons le choix de faire confiance au 3ème regard, à celui du Public qui seul recoit ce qui est donné.
-&amp;ndash;&amp;gt; Par ici le POT COMMUN Helloasso pour S&amp;rsquo;INSCRIRE à l&amp;rsquo;évènement.
-&amp;mdash;&amp;gt; Résumé de la semaine au Cerisier:
-   QUI QUOI OÙ QUAND COMMENT POURQUOI     Artistes et Faiseurs Formation au jeu &amp;amp; Créations: &amp;ldquo;De l&amp;rsquo;Enfance&amp;rdquo; (tous publics) et &amp;ldquo;Le clown et le fée&amp;rdquo; (enfants et familles).</description>
+      <description>&lt;p&gt;Pour financer l&amp;rsquo;évènement, nous faisons le choix de faire confiance au 3ème regard,
+à celui du Public qui seul recoit ce qui est donné.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Par ici &lt;a href=&#34;https://www.helloasso.com/associations/tedua/collectes/kijou-6-jours-de-jeu-ensemble-au-cerisier&#34;&gt;le POT COMMUN Helloasso pour S&amp;rsquo;INSCRIRE à l&amp;rsquo;évènement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/helloasso.png&#34; alt=&#34;Pot commun sur HelloAsso&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash;&amp;gt; Résumé de la semaine au Cerisier:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;QUI&lt;/th&gt;
+&lt;th&gt;QUOI&lt;/th&gt;
+&lt;th&gt;OÙ&lt;/th&gt;
+&lt;th&gt;QUAND&lt;/th&gt;
+&lt;th&gt;COMMENT&lt;/th&gt;
+&lt;th&gt;POURQUOI&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;Artistes et Faiseurs&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Formation au jeu &amp;amp; Créations: &amp;ldquo;De l&amp;rsquo;Enfance&amp;rdquo; (tous publics) et &amp;ldquo;Le clown et le fée&amp;rdquo; (enfants et familles). L&amp;rsquo;&lt;a href=&#34;https://www.facebook.com/events/1987585964655561/permalink/1993489544065203/&#34;&gt;ÉVÈNEMENT FACEBOOK est par ici&lt;/a&gt;.&lt;/td&gt;
+&lt;td&gt;Le Cerisier: &lt;a href=&#34;https://www.openstreetmap.org/node/2501777908#map=16/44.8742/-0.5460&#34;&gt;7-11 rue Joseph Brunet, à Bordeaux Bacalan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Du Lundi 22 au Samedi 27 Octobre 2018, les portes s&amp;rsquo;ouvrent tous les jours de 8h à 22h &lt;a href=&#34;https://www.association-tedua.fr/blogs/chemins-de-la-semaine/&#34;&gt;planning complet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Tram B: arrêt Brandenburg, Bus: y en a. Nourriture: décidée spontanément ensemble chaque jour les lundi-mardi-jeudi-vendredi, organisée le mercredi midi (repas bio vegan sans gluten), et jus de fruits maison bio à prix coûtants le samedi soir&lt;/td&gt;
+&lt;td&gt;Être ensemble.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Revenir vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/&#34;&gt;l&amp;rsquo;Atelier: Diffuseurs et Numérique &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Le Déj&#39;: Diffuseurs &amp; Numérique?</title>
+      <title>Oct 2018 // Festival KIJOU? #1: l&#39;atelier Diffuseurs &amp; Numérique Libre</title>
       <link>/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
       <guid>/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/</guid>
-      <description>L&amp;rsquo;art n&amp;rsquo;est là que pour autrui. Et c&amp;rsquo;est précisément là que réside le pouvoir du diffuseur: d&amp;rsquo;où l&amp;rsquo;art doit-il être vu?
-Au cours de ces 2 heures de déjeuner-conversation, 3 intervenants de Bordeaux, Lyon et Paris partageront leur vision du travail au croisement des arts vivants, des outils numériques et de l&amp;rsquo;économie p2p, pendant que des hôtes au nez rouge leur réveilleront les papilles avec une expérience culinaire &amp;ldquo;raw food vegan&amp;rdquo; préparée par Ben.</description>
+      <description>&lt;p&gt;L&amp;rsquo;art n&amp;rsquo;est là que pour autrui.
+Et c&amp;rsquo;est précisément là que réside le pouvoir du diffuseur: d&amp;rsquo;où l&amp;rsquo;art doit-il être vu?&lt;/p&gt;
+
+&lt;p&gt;Au cours de ces 2 heures de déjeuner-conversation, 3 intervenants de Bordeaux, Lyon et Paris partageront leur vision du travail au croisement des arts vivants, des outils numériques et de l&amp;rsquo;économie p2p, pendant que des hôtes au nez rouge leur réveilleront les papilles avec une expérience culinaire &amp;ldquo;raw food vegan&amp;rdquo; préparée par Ben.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/ateliernumerique.jpg&#34; alt=&#34;images issues des 3 intervenants&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le sujet du Numérique prend une place toujours plus importante dans tous les champs de l&amp;rsquo;économie et de la création,
+si bien qu&amp;rsquo;il est maintenant dépassé de le percevoir comme un effet de mode, ou une technologie de passage.
+En effet, c&amp;rsquo;est bien d&amp;rsquo;une révolution de l&amp;rsquo;Écriture qu&amp;rsquo;il s&amp;rsquo;agit, et comme tout réseau enchevêtré d&amp;rsquo;outils et d&amp;rsquo;humains, c&amp;rsquo;est l&amp;rsquo;acte de création artistique et sa diffusion-même qui s&amp;rsquo;en retrouvent questionnés et mis à l&amp;rsquo;épreuve afin de pouvoir rencontrer son Public.&lt;/p&gt;
+
+&lt;p&gt;Pour illustrer ces nouveaux usages, et continuer notre exploration de la place du Public dans le Jeu, &lt;strong&gt;nous invitons tous les diffuseurs de spectacle, amateurs et développeurs de logiciels libres, artistes, associations et amateurs de théâtre et d&amp;rsquo;arts vivants, à venir écouter ,converser et découvrir de nouveaux outils pair-à-pair&lt;/strong&gt; avec:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;INTERVENANTS&lt;/th&gt;
+&lt;th&gt;SUJET OFFERT&lt;/th&gt;
+&lt;th&gt;VILLE&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Pierre-Grangé Praderas: initiateur de l&amp;rsquo;école des Beaux-Hacks pour artistes et amateurs d&amp;rsquo;outils numériques libres&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Pour une conférence-performance de 33 minutes sur tableau noir: &amp;ldquo;Les contes du pgp&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://www.pierregrangepraderas.com/&#34;&gt;Pierre Grangé-Praderas&lt;/a&gt;, alias pgp comme l&amp;rsquo;algorythme de chiffrement vous emmène dan ses pensées où se mélangent des questions de langage, de numérique, de résistance et de poésie. Un plaidoyer pour la liberté et le droit à l&amp;rsquo;incomplétude.&amp;ldquo;&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;BORDEAUX&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Grégory Bahde (greg@grrrndzero.org): créateur d&amp;rsquo;un étonnant logiciel Libre de cartographie de réseaux et d&amp;rsquo;optimisation des tournées des groupes de musique.&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Pour un témoignage des enjeux et idées poursuivies lors de la création de cet outil: Bandstour.&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Le projet Bandstour fait partie des applications de ma thèse (Université Jean Monnet, Enssib) sur la géographie du numérique financée initialement par la région ARA. Avec celui-ci,  je m&amp;rsquo;interesse à donner à comprendre les dynamiques de tournées et l&amp;rsquo;impact écologique de celles-ci,en lien avec leurs mutations depuis l&amp;rsquo;avènement du numérique. Pour cela, j&amp;rsquo;utilise une version modifiée de l&amp;rsquo;application sous licence libre Topogram (&lt;a href=&#34;https://www.app.topogram.io&#34;&gt;https://www.app.topogram.io&lt;/a&gt;), conçue avec &lt;a href=&#34;https://clementrenaud.com&#34;&gt;Clément Renaud&lt;/a&gt;, appli qui permet de visualiser des réseaux spatiaux et aspatiaux. Les données de cette étude n&amp;rsquo;étant pas toutes libres de droit, elle ne peuvent être diffusées largement sur les réseaux.Cette étude massive porte sur les pratiques de 60 000 groupes de musique sur 20 ans. Dans le cadre de cette journée au Cerisier avec l&amp;rsquo;association TeDua, l&amp;rsquo;application sera exceptionnellement laissée à discrétion pour qui souhaite consulter les cartes de tournées de ses artistes préférés et les comparer.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;LYON&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nicolas Bienvenu: professionnel de la culture, président d&amp;rsquo;une plateforme numérique de spectacles vivants de proximité &amp;amp; ex-gérant d&amp;rsquo;un café-concert Bongo Furie&amp;rsquo;s dans les Alpes&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Pour témoigner de son expérience et de sa vision comme co-fondateur de la plateforme participative,&lt;/em&gt; &lt;a href=&#34;https://www.a2pasdelascene.fr/&#34;&gt;À 2 pas de la scène&lt;/a&gt; &lt;em&gt;,  qui permet aux spectateurs de voir le spectacle de leur choix, près de chez eux. La programmation participative? C’est une rencontre entre le public, des artistes et des espaces de vie culturelle. C’est échanger des coups de coeur et mettre en commun un désir : celui de découvrir des talents, d’explorer de nouveaux lieux, de vivre des expériences inédites, d’ouvrir son horizon&amp;hellip; Bref, c’est mettre l’intelligence collective au service de la culture !&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;PARIS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Atelier animé par Habib Belaribi, collectif &lt;a href=&#34;https://co-actions.coop/nos-metiers/les-entrepreneur-e-s/hbelaribi/&#34;&gt;Les Éthers Fertiles chez Co-actions&lt;/a&gt; et membre d&amp;rsquo; &lt;a href=&#34;aquilenet.fr&#34;&gt;Aquilenet&lt;/a&gt;(contact: habib.belaribi@aquilenet.fr).&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Revenir vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;les Artistes et Faiseurs&lt;/a&gt;&lt;br /&gt;
+&amp;ndash;&amp;gt; Poursuivre la lecture vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/infos-pratiques/&#34;&gt;les Infos Pratiques &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Le Déj&#39;: Diffuseurs &amp; Numérique?</title>
+      <title>Oct 2018 // Festival KIJOU? #1: l&#39;atelier Diffuseurs &amp; Numérique Libre</title>
       <link>/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
       <guid>/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/</guid>
-      <description>L&amp;rsquo;art n&amp;rsquo;est là que pour autrui. Et c&amp;rsquo;est précisément là que réside le pouvoir du diffuseur: d&amp;rsquo;où l&amp;rsquo;art doit-il être vu?
-Au cours de ces 2 heures de déjeuner-conversation, 3 intervenants de Bordeaux, Lyon et Paris partageront leur vision du travail au croisement des arts vivants, des outils numériques et de l&amp;rsquo;économie p2p, pendant que des hôtes au nez rouge leur réveilleront les papilles avec une expérience culinaire &amp;ldquo;raw food vegan&amp;rdquo; préparée par Ben.</description>
+      <description>&lt;p&gt;L&amp;rsquo;art n&amp;rsquo;est là que pour autrui.
+Et c&amp;rsquo;est précisément là que réside le pouvoir du diffuseur: d&amp;rsquo;où l&amp;rsquo;art doit-il être vu?&lt;/p&gt;
+
+&lt;p&gt;Au cours de ces 2 heures de déjeuner-conversation, 3 intervenants de Bordeaux, Lyon et Paris partageront leur vision du travail au croisement des arts vivants, des outils numériques et de l&amp;rsquo;économie p2p, pendant que des hôtes au nez rouge leur réveilleront les papilles avec une expérience culinaire &amp;ldquo;raw food vegan&amp;rdquo; préparée par Ben.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/ateliernumerique.jpg&#34; alt=&#34;images issues des 3 intervenants&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le sujet du Numérique prend une place toujours plus importante dans tous les champs de l&amp;rsquo;économie et de la création,
+si bien qu&amp;rsquo;il est maintenant dépassé de le percevoir comme un effet de mode, ou une technologie de passage.
+En effet, c&amp;rsquo;est bien d&amp;rsquo;une révolution de l&amp;rsquo;Écriture qu&amp;rsquo;il s&amp;rsquo;agit, et comme tout réseau enchevêtré d&amp;rsquo;outils et d&amp;rsquo;humains, c&amp;rsquo;est l&amp;rsquo;acte de création artistique et sa diffusion-même qui s&amp;rsquo;en retrouvent questionnés et mis à l&amp;rsquo;épreuve afin de pouvoir rencontrer son Public.&lt;/p&gt;
+
+&lt;p&gt;Pour illustrer ces nouveaux usages, et continuer notre exploration de la place du Public dans le Jeu, &lt;strong&gt;nous invitons tous les diffuseurs de spectacle, amateurs et développeurs de logiciels libres, artistes, associations et amateurs de théâtre et d&amp;rsquo;arts vivants, à venir écouter ,converser et découvrir de nouveaux outils pair-à-pair&lt;/strong&gt; avec:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;INTERVENANTS&lt;/th&gt;
+&lt;th&gt;SUJET OFFERT&lt;/th&gt;
+&lt;th&gt;VILLE&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Pierre-Grangé Praderas: initiateur de l&amp;rsquo;école des Beaux-Hacks pour artistes et amateurs d&amp;rsquo;outils numériques libres&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Pour une conférence-performance de 33 minutes sur tableau noir: &amp;ldquo;Les contes du pgp&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://www.pierregrangepraderas.com/&#34;&gt;Pierre Grangé-Praderas&lt;/a&gt;, alias pgp comme l&amp;rsquo;algorythme de chiffrement vous emmène dan ses pensées où se mélangent des questions de langage, de numérique, de résistance et de poésie. Un plaidoyer pour la liberté et le droit à l&amp;rsquo;incomplétude.&amp;ldquo;&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;BORDEAUX&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Grégory Bahde (greg@grrrndzero.org): créateur d&amp;rsquo;un étonnant logiciel Libre de cartographie de réseaux et d&amp;rsquo;optimisation des tournées des groupes de musique.&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Pour un témoignage des enjeux et idées poursuivies lors de la création de cet outil: Bandstour.&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Le projet Bandstour fait partie des applications de ma thèse (Université Jean Monnet, Enssib) sur la géographie du numérique financée initialement par la région ARA. Avec celui-ci,  je m&amp;rsquo;interesse à donner à comprendre les dynamiques de tournées et l&amp;rsquo;impact écologique de celles-ci,en lien avec leurs mutations depuis l&amp;rsquo;avènement du numérique. Pour cela, j&amp;rsquo;utilise une version modifiée de l&amp;rsquo;application sous licence libre Topogram (&lt;a href=&#34;https://www.app.topogram.io&#34;&gt;https://www.app.topogram.io&lt;/a&gt;), conçue avec &lt;a href=&#34;https://clementrenaud.com&#34;&gt;Clément Renaud&lt;/a&gt;, appli qui permet de visualiser des réseaux spatiaux et aspatiaux. Les données de cette étude n&amp;rsquo;étant pas toutes libres de droit, elle ne peuvent être diffusées largement sur les réseaux.Cette étude massive porte sur les pratiques de 60 000 groupes de musique sur 20 ans. Dans le cadre de cette journée au Cerisier avec l&amp;rsquo;association TeDua, l&amp;rsquo;application sera exceptionnellement laissée à discrétion pour qui souhaite consulter les cartes de tournées de ses artistes préférés et les comparer.&amp;rdquo;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;LYON&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nicolas Bienvenu: professionnel de la culture, président d&amp;rsquo;une plateforme numérique de spectacles vivants de proximité &amp;amp; ex-gérant d&amp;rsquo;un café-concert Bongo Furie&amp;rsquo;s dans les Alpes&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Pour témoigner de son expérience et de sa vision comme co-fondateur de la plateforme participative,&lt;/em&gt; &lt;a href=&#34;https://www.a2pasdelascene.fr/&#34;&gt;À 2 pas de la scène&lt;/a&gt; &lt;em&gt;,  qui permet aux spectateurs de voir le spectacle de leur choix, près de chez eux. La programmation participative? C’est une rencontre entre le public, des artistes et des espaces de vie culturelle. C’est échanger des coups de coeur et mettre en commun un désir : celui de découvrir des talents, d’explorer de nouveaux lieux, de vivre des expériences inédites, d’ouvrir son horizon&amp;hellip; Bref, c’est mettre l’intelligence collective au service de la culture !&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;PARIS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Atelier animé par Habib Belaribi, collectif &lt;a href=&#34;https://co-actions.coop/nos-metiers/les-entrepreneur-e-s/hbelaribi/&#34;&gt;Les Éthers Fertiles chez Co-actions&lt;/a&gt; et membre d&amp;rsquo; &lt;a href=&#34;aquilenet.fr&#34;&gt;Aquilenet&lt;/a&gt;(contact: habib.belaribi@aquilenet.fr).&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Revenir vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;les Artistes et Faiseurs&lt;/a&gt;&lt;br /&gt;
+&amp;ndash;&amp;gt; Poursuivre la lecture vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/infos-pratiques/&#34;&gt;les Infos Pratiques &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Artistes &amp; Faiseurs</title>
+      <title>Oct 2018 // Festival KIJOU? #1 : Artistes &amp; Faiseurs </title>
       <link>/blogs/artistes-et-faiseurs/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
       <guid>/blogs/artistes-et-faiseurs/</guid>
-      <description>Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là. Pour le Public.
-ARTISTES &amp;amp; ARTISANS :
- Au service du public, des plasticiens et des artisans, installent leurs créations. Des temps seront réservés pour pouvoir les rencontrer. Tester leur pratique. Ou tout simplement, les observer dans la liberté du silence. Le tout sera orchestré par La Veilleuse, association collaborative de diffusion d&#39;art vivant, et de rencontres culturelles.</description>
+      <description>&lt;p&gt;Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là.
+Pour le Public.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/kijou.jpg&#34; alt=&#34;KIJOU?&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ARTISTES &amp;amp; ARTISANS :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Au service du public, des plasticiens et des artisans, installent leurs créations.
+   Des temps seront réservés pour pouvoir les rencontrer.
+   Tester leur pratique.
+   Ou tout simplement, les observer dans la liberté du silence.
+   Le tout sera orchestré par La Veilleuse, association collaborative de diffusion d&#39;art vivant, et de rencontres
+   culturelles.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/artisans.jpg&#34; alt=&#34;artisans&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ÉLÈVES :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   &amp;quot;Tout au public.&amp;quot;
+   Que cela peut bien vouloir dire?
+   Chaque matin de &amp;quot;KIJOU?&amp;quot;, l&#39;expérience de se retrouver face au public se retourne pour découvrir qui est le public,
+   car c&#39;est bien lui qui est témoin du jeu, non?
+   Pendant ces matinées de stage de théâtre, vous serez invités à entrer dans le jeu.
+   Public, ou comédien.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/eleves1.png&#34; alt=&#34;élèves&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MEMBRES ACTIFS :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Pendant toute la durée de &amp;quot;KIJOU?&amp;quot;, Une équipe de membres d&#39;association sont présent pour accueillir le public, suivreles--&amp;gt; Poursuivre la lecture vers [les Artistes et Faiseurs](https://www.association-tedua.fr/blogs/artistes-et-faiseurs/)
+   cours et échanger avec tous ceux qui seront sur place.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;MUSICIENS :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Lors des après midi de &amp;quot;KIJOU?&amp;quot;, Des musiciens différents rencontrent les textes et le jeu, pour tous se retrouver le
+   samedi soir pour la sortie de résidence. De différentes influences, les musiciens doivent composer en improvisation la force profonde des textes &amp;quot;De l&#39;enfance&amp;quot;.
+   Il y aura: Alex au saxophone, Amandine aux percussions corporelles, Simon à la batterie,  Mélissa au balafon, Habib à la flûte traversière.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;NUMERIQUE :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Pour le Mercredi 24, un temps est dédié au Numérique Libre dans la culture et l&#39;art. Offrant une nouvelle visualisation
+   des trajectoire de diffusion qu&#39;offre le territoire. Ce temps sera mise en scène, et accompagné par un repas organisé par
+   Ben.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/ateliernumerique.jpg&#34; alt=&#34;atelier numérique&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Revenir vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/chemins-de-la-semaine/&#34;&gt;les chemin(s) de la semaine, Inscriptions et Infos pratiques&lt;/a&gt;
+  &amp;ndash;&amp;gt; Poursuivre la lecture vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/&#34;&gt;l&amp;rsquo;Atelier: Diffuseurs et Numérique? &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Artistes &amp; Faiseurs</title>
+      <title>Oct 2018 // Festival KIJOU? #1 : Artistes &amp; Faiseurs </title>
       <link>/blogs/artistes-et-faiseurs/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
       <guid>/blogs/artistes-et-faiseurs/</guid>
-      <description>Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là. Pour le Public.
-ARTISTES &amp;amp; ARTISANS :
- Au service du public, des plasticiens et des artisans, installent leurs créations. Des temps seront réservés pour pouvoir les rencontrer. Tester leur pratique. Ou tout simplement, les observer dans la liberté du silence. Le tout sera orchestré par La Veilleuse, association collaborative de diffusion d&#39;art vivant, et de rencontres culturelles.</description>
+      <description>&lt;p&gt;Plus de 30 comédiens, élèves, enseignant, metteur en scène, auteur, musiciens, artisans, et hôtes feront cette semaine-là.
+Pour le Public.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/kijou.jpg&#34; alt=&#34;KIJOU?&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ARTISTES &amp;amp; ARTISANS :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Au service du public, des plasticiens et des artisans, installent leurs créations.
+   Des temps seront réservés pour pouvoir les rencontrer.
+   Tester leur pratique.
+   Ou tout simplement, les observer dans la liberté du silence.
+   Le tout sera orchestré par La Veilleuse, association collaborative de diffusion d&#39;art vivant, et de rencontres
+   culturelles.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/artisans.jpg&#34; alt=&#34;artisans&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ÉLÈVES :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   &amp;quot;Tout au public.&amp;quot;
+   Que cela peut bien vouloir dire?
+   Chaque matin de &amp;quot;KIJOU?&amp;quot;, l&#39;expérience de se retrouver face au public se retourne pour découvrir qui est le public,
+   car c&#39;est bien lui qui est témoin du jeu, non?
+   Pendant ces matinées de stage de théâtre, vous serez invités à entrer dans le jeu.
+   Public, ou comédien.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/eleves1.png&#34; alt=&#34;élèves&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MEMBRES ACTIFS :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Pendant toute la durée de &amp;quot;KIJOU?&amp;quot;, Une équipe de membres d&#39;association sont présent pour accueillir le public, suivreles--&amp;gt; Poursuivre la lecture vers [les Artistes et Faiseurs](https://www.association-tedua.fr/blogs/artistes-et-faiseurs/)
+   cours et échanger avec tous ceux qui seront sur place.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;MUSICIENS :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Lors des après midi de &amp;quot;KIJOU?&amp;quot;, Des musiciens différents rencontrent les textes et le jeu, pour tous se retrouver le
+   samedi soir pour la sortie de résidence. De différentes influences, les musiciens doivent composer en improvisation la force profonde des textes &amp;quot;De l&#39;enfance&amp;quot;.
+   Il y aura: Alex au saxophone, Amandine aux percussions corporelles, Simon à la batterie,  Mélissa au balafon, Habib à la flûte traversière.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;NUMERIQUE :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   Pour le Mercredi 24, un temps est dédié au Numérique Libre dans la culture et l&#39;art. Offrant une nouvelle visualisation
+   des trajectoire de diffusion qu&#39;offre le territoire. Ce temps sera mise en scène, et accompagné par un repas organisé par
+   Ben.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/ateliernumerique.jpg&#34; alt=&#34;atelier numérique&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Revenir vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/chemins-de-la-semaine/&#34;&gt;les chemin(s) de la semaine, Inscriptions et Infos pratiques&lt;/a&gt;
+  &amp;ndash;&amp;gt; Poursuivre la lecture vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/le-d%C3%A9j-diffuseurs-et-num%C3%A9rique/&#34;&gt;l&amp;rsquo;Atelier: Diffuseurs et Numérique? &lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Chemin(s) de la semaine</title>
-      <link>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</link>
+      <title>L&#39;Ecole Tedua</title>
+      <link>/accueil/l-ecole-tedua/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</guid>
-      <description>1. PLANNING Du lundi au samedi: - stage de théâtre - répétitions quotidiennes ouvertes au public - création &amp;amp; spectacle &amp;ldquo;De l&amp;rsquo;enfance&amp;rdquo;(textes et musiques improvisées) tous publics - spectacle &amp;ldquo;le clown et la fée&amp;rdquo; pour enfants et familles - apéros et déjeuners de quartier - atelier de réflexion et conversation sur la diffusion des spectacles vivants et les logiciels libres (avec 3 intervenants de Bordeaux, Lyon et Paris)
-De l&amp;rsquo;élève au maître.</description>
+      <guid>/accueil/l-ecole-tedua/</guid>
+      <description>
+
+&lt;h3 id=&#34;1-ouverture-de-l-ecole-tedua-saison-2019-2020&#34;&gt;1. Ouverture de l&amp;rsquo;Ecole Tedua (Saison 2019-2020)&lt;/h3&gt;
+
+&lt;p&gt;En cette fin de saison 2018-2019, les échanges entre plusieurs élèves assidus et leur enseignant, et l&amp;rsquo;arrivée 5 élèves du conservatoire de Bordeaux ayant apprécié le travail de préparation aux grandes écoles de théâtre telle que l&amp;rsquo;aborde la discipline du jeu de Jonathan Dupui, ont pris une nouvelle tournure: celle de l&amp;rsquo;&lt;strong&gt;appel continu au jeu, comme espace certain de liberté et de paix&lt;/strong&gt;.&lt;br /&gt;
+Autrement dit, une dizaine d&amp;rsquo;entre eux ont exprimé leur désir de&lt;br /&gt;
+&lt;strong&gt;mettre la discipline du jeu au centre:&lt;br /&gt;
+de leur travail,&lt;br /&gt;
+de leur quotidien,&lt;br /&gt;
+de leur rapport au monde et au vivre-ensemble&lt;/strong&gt;.&lt;br /&gt;
+&lt;br&gt;
+Avec toute la certitude, les doutes, l&amp;rsquo;engouement, les questionnements, l&amp;rsquo;envie, les craintes que cela soulève:&lt;br /&gt;
+&lt;br&gt;
+&amp;ndash; &lt;em&gt;&amp;ldquo;Comment faire de la pratique du jeu de théâtre et/ou de clown mon quotidien? Et en même temps mes études prennent fin et je sais que je vais devoir rentrer dans le monde du travail comme tout le monde.&amp;rdquo;&lt;/em&gt;&lt;br /&gt;
+&lt;br&gt;
+&amp;ndash; &lt;em&gt;&amp;ldquo;J&amp;rsquo;aimerais vraiment quitter mon boulot pour me dédier au théâtre, à jouer sur un scène pour un public, mais cette transition me fait peur!&amp;rdquo;&lt;/em&gt;&lt;br /&gt;
+&lt;br&gt;
+&amp;ndash; &lt;em&gt;&amp;ldquo;Je n&amp;rsquo;ai plus l&amp;rsquo;âge de passer les concours d&amp;rsquo;entrée dans les grandes écoles de théâtre, et mes premières années de vie en tant qu&amp;rsquo;artiste-comédien ont laissé plus de place aux galères financières et logistiques, qu&amp;rsquo;au développement de ma pratique du jeu et de nouveaux spectacles à offrir au public. Quelle serait la bonne formule pour trouver un meilleur équilibre entre pratique du jeu,les créations, et gagner ma vie?&amp;rdquo;&lt;/em&gt;&lt;br /&gt;
+&lt;br&gt;
+Naturellement, Anne Lucie et Habib (voir le paragraphe sur L&amp;rsquo;équipe pédagogique, en bas de ce lien) ont organisé une série de rencontres longues (plusieurs heures par élève) pour en savoir plus sur cet intérêt individuel qu&amp;rsquo;ils ont exprimé, et une forme s&amp;rsquo;est  dessinée petit à petit avec:&lt;br /&gt;
+- une &lt;strong&gt;approche et un programme pédagogique&lt;/strong&gt; de la discipline du jeu dirigés par Jonathan;&lt;br /&gt;
+- un &lt;strong&gt;accompagnement personnalisé&lt;/strong&gt; (&amp;ldquo;vie scolaire&amp;rdquo;, &amp;ldquo;conseil d&amp;rsquo;orientation&amp;rdquo;) mené par Anne Lucie et Habib pour &amp;ldquo;apprendre à s&amp;rsquo;organiser &amp;rdquo; et &amp;ldquo;gagner sa vie&amp;rdquo; en parallèle de la formation;&lt;br /&gt;
+- une &lt;strong&gt;approche et un programme pédagogique&lt;/strong&gt; pour découvrir une approche paisible de l&amp;rsquo;économie (pair-a-pair) et du monde du travail dirigés par Habib;&lt;br /&gt;
+- &lt;strong&gt;3 intervenants extérieurs professionnels de Bordeaux, Paris et Liège&lt;/strong&gt;;&lt;br /&gt;
+- &lt;strong&gt;4 soutiens et référents &amp;ldquo;regards extérieurs&amp;rdquo; nationaux&lt;/strong&gt;&lt;br /&gt;
+- des besoins matériels et financiers auxquels répondre&lt;/p&gt;
+
+&lt;h2 id=&#34;nous-recherchons-des-partenaires-institutionnels-et-financiers&#34;&gt;Nous recherchons des partenaires institutionnels, et financiers&lt;/h2&gt;
+
+&lt;h3 id=&#34;2-tour-d-horizon-des-formations-de-la-saison-2018-2019&#34;&gt;2. Tour d&amp;rsquo;horizon des formations de la Saison 2018-2019&lt;/h3&gt;
+
+&lt;p&gt;Tout au long de cette saison 2018-2019, l&amp;rsquo;association TeDua propose des stages et des ateliers pour pratiquer la &lt;strong&gt;discipline du jeu&lt;/strong&gt; enseignée par Jonathan Dupui.&lt;br /&gt;
+Du théâtre au clown,&lt;br /&gt;
+&lt;strong&gt;tout-novice&lt;/strong&gt;, &lt;strong&gt;amateur&lt;/strong&gt; ou &lt;strong&gt;professionnel&lt;/strong&gt;:&lt;br /&gt;
+VIENS et JOUE!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/ateliersclown.png&#34; alt=&#34;stages theatre&#34; style=&#34;width:200px;height:500px;&#34; align=&#34;left&#34; hspace=”100”&gt;
+&lt;strong&gt;LES ATELIERS BI-MENSUELS DE JEU DE CLOWN&lt;/strong&gt;&lt;br /&gt;
+LE MOT DU PROF:&lt;br /&gt;
+&amp;ldquo;Découvrir le clown,&lt;br /&gt;
+c’est laisser de côté toutes les idées de nous-même.&lt;br /&gt;
+Mais ça ne veut surtout pas dire&lt;br /&gt;
+faire qu’elle ne soient pas là:&lt;br /&gt;
+c’est jouer avec,&lt;br /&gt;
+une bonne fois pour toutes.&amp;rdquo;&lt;br /&gt;
+&lt;br&gt;
+CALENDRIER:&lt;br /&gt;
+Environ 2 Dimanches/mois,&lt;br /&gt;
+pendant 4 Heures,&lt;br /&gt;
+de 17h a 21h.&lt;br /&gt;
+Prochaines séances indiquées à gauche sur ce flyer,&lt;br /&gt;
+ou&lt;br /&gt;
+&lt;a href=&#34;http://localhost:1313/accueil/informations-pratiques/&#34;&gt;CONTACTER Anne Lucie pour + de détails pratiques (ambiance, prix, transport, etc)&lt;/a&gt;.&lt;br /&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/stages.png&#34; alt=&#34;ateliers clown&#34; style=&#34;width:200px;height:500px;&#34; align=&#34;left&#34;&gt;
+&lt;strong&gt;LES WEEK-ENDS MENSUELS DE STAGE DE THEATRE&lt;/strong&gt;&lt;br /&gt;
+LE MOT DU PROF:&lt;br /&gt;
+&amp;ldquo;S’immerger dans le jeu&lt;br /&gt;
+dans l’ambiance d’un dojo (école d&amp;rsquo;arts martiaux),&lt;br /&gt;
+pour découvrir le public&lt;br /&gt;
+comme le centre de l’attention du comédien.&lt;br /&gt;
+Et prendre le temps sur un week-end,&lt;br /&gt;
+d’ouvrir le champ de l’expression.&amp;rdquo;&lt;br /&gt;
+&lt;br&gt;
+CALENDRIER:&lt;br /&gt;
+1 Week-end/mois,&lt;br /&gt;
+pendant 15H,&lt;br /&gt;
+le samedi de 14H a 20h et le dimanche de 11H a 20H,&lt;br /&gt;
+Prochaines séances indiquées à gauche sur ce flyer,&lt;br /&gt;
+ou&lt;br /&gt;
+&lt;a href=&#34;http://localhost:1313/accueil/informations-pratiques/&#34;&gt;CONTACTER Anne Lucie pour plus de détails pratiques (ambiance, prix, transport, etc)&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;PREPARATION AUX CONCOURS&lt;/strong&gt;&lt;br /&gt;
+Intégrer toutes les formations de l’association TeDua, et recevoir des séances de type &amp;ldquo;cours particulier&amp;rdquo; pour &lt;strong&gt;travailler les scènes de concours d&amp;rsquo;entrée dans les grandes écoles de théâtre&lt;/strong&gt;.&lt;br /&gt;
+ Un encadrement en duo par Jonathan Dupui et Simon Delgrange.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;ART-THERAPIE&lt;/strong&gt;&lt;br /&gt;
+Enlever « je », et le remplacer par « jeu ».&lt;br /&gt;
+Permettre ainsi la distance avec soi-même.&lt;br /&gt;
+Et s’offrir la conscience d’avoir toujours été présent.&lt;br /&gt;
+Même au cœur de nos « difficultés ».&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Chemin(s) de la semaine</title>
-      <link>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</link>
+      <title>L&#39;Ecole Tedua</title>
+      <link>/accueil/l-ecole-tedua/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</guid>
-      <description>1. PLANNING Du lundi au samedi: - stage de théâtre - répétitions quotidiennes ouvertes au public - création &amp;amp; spectacle &amp;ldquo;De l&amp;rsquo;enfance&amp;rdquo;(textes et musiques improvisées) tous publics - spectacle &amp;ldquo;le clown et la fée&amp;rdquo; pour enfants et familles - apéros et déjeuners de quartier - atelier de réflexion et conversation sur la diffusion des spectacles vivants et les logiciels libres (avec 3 intervenants de Bordeaux, Lyon et Paris)
-De l&amp;rsquo;élève au maître.</description>
+      <guid>/accueil/l-ecole-tedua/</guid>
+      <description>
+
+&lt;h3 id=&#34;1-ouverture-de-l-ecole-tedua-saison-2019-2020&#34;&gt;1. Ouverture de l&amp;rsquo;Ecole Tedua (Saison 2019-2020)&lt;/h3&gt;
+
+&lt;p&gt;En cette fin de saison 2018-2019, les échanges entre plusieurs élèves assidus et leur enseignant, et l&amp;rsquo;arrivée 5 élèves du conservatoire de Bordeaux ayant apprécié le travail de préparation aux grandes écoles de théâtre telle que l&amp;rsquo;aborde la discipline du jeu de Jonathan Dupui, ont pris une nouvelle tournure: celle de l&amp;rsquo;&lt;strong&gt;appel continu au jeu, comme espace certain de liberté et de paix&lt;/strong&gt;.&lt;br /&gt;
+Autrement dit, une dizaine d&amp;rsquo;entre eux ont exprimé leur désir de&lt;br /&gt;
+&lt;strong&gt;mettre la discipline du jeu au centre:&lt;br /&gt;
+de leur travail,&lt;br /&gt;
+de leur quotidien,&lt;br /&gt;
+de leur rapport au monde et au vivre-ensemble&lt;/strong&gt;.&lt;br /&gt;
+&lt;br&gt;
+Avec toute la certitude, les doutes, l&amp;rsquo;engouement, les questionnements, l&amp;rsquo;envie, les craintes que cela soulève:&lt;br /&gt;
+&lt;br&gt;
+&amp;ndash; &lt;em&gt;&amp;ldquo;Comment faire de la pratique du jeu de théâtre et/ou de clown mon quotidien? Et en même temps mes études prennent fin et je sais que je vais devoir rentrer dans le monde du travail comme tout le monde.&amp;rdquo;&lt;/em&gt;&lt;br /&gt;
+&lt;br&gt;
+&amp;ndash; &lt;em&gt;&amp;ldquo;J&amp;rsquo;aimerais vraiment quitter mon boulot pour me dédier au théâtre, à jouer sur un scène pour un public, mais cette transition me fait peur!&amp;rdquo;&lt;/em&gt;&lt;br /&gt;
+&lt;br&gt;
+&amp;ndash; &lt;em&gt;&amp;ldquo;Je n&amp;rsquo;ai plus l&amp;rsquo;âge de passer les concours d&amp;rsquo;entrée dans les grandes écoles de théâtre, et mes premières années de vie en tant qu&amp;rsquo;artiste-comédien ont laissé plus de place aux galères financières et logistiques, qu&amp;rsquo;au développement de ma pratique du jeu et de nouveaux spectacles à offrir au public. Quelle serait la bonne formule pour trouver un meilleur équilibre entre pratique du jeu,les créations, et gagner ma vie?&amp;rdquo;&lt;/em&gt;&lt;br /&gt;
+&lt;br&gt;
+Naturellement, Anne Lucie et Habib (voir le paragraphe sur L&amp;rsquo;équipe pédagogique, en bas de ce lien) ont organisé une série de rencontres longues (plusieurs heures par élève) pour en savoir plus sur cet intérêt individuel qu&amp;rsquo;ils ont exprimé, et une forme s&amp;rsquo;est  dessinée petit à petit avec:&lt;br /&gt;
+- une &lt;strong&gt;approche et un programme pédagogique&lt;/strong&gt; de la discipline du jeu dirigés par Jonathan;&lt;br /&gt;
+- un &lt;strong&gt;accompagnement personnalisé&lt;/strong&gt; (&amp;ldquo;vie scolaire&amp;rdquo;, &amp;ldquo;conseil d&amp;rsquo;orientation&amp;rdquo;) mené par Anne Lucie et Habib pour &amp;ldquo;apprendre à s&amp;rsquo;organiser &amp;rdquo; et &amp;ldquo;gagner sa vie&amp;rdquo; en parallèle de la formation;&lt;br /&gt;
+- une &lt;strong&gt;approche et un programme pédagogique&lt;/strong&gt; pour découvrir une approche paisible de l&amp;rsquo;économie (pair-a-pair) et du monde du travail dirigés par Habib;&lt;br /&gt;
+- &lt;strong&gt;3 intervenants extérieurs professionnels de Bordeaux, Paris et Liège&lt;/strong&gt;;&lt;br /&gt;
+- &lt;strong&gt;4 soutiens et référents &amp;ldquo;regards extérieurs&amp;rdquo; nationaux&lt;/strong&gt;&lt;br /&gt;
+- des besoins matériels et financiers auxquels répondre&lt;/p&gt;
+
+&lt;h2 id=&#34;nous-recherchons-des-partenaires-institutionnels-et-financiers&#34;&gt;Nous recherchons des partenaires institutionnels, et financiers&lt;/h2&gt;
+
+&lt;h3 id=&#34;2-tour-d-horizon-des-formations-de-la-saison-2018-2019&#34;&gt;2. Tour d&amp;rsquo;horizon des formations de la Saison 2018-2019&lt;/h3&gt;
+
+&lt;p&gt;Tout au long de cette saison 2018-2019, l&amp;rsquo;association TeDua propose des stages et des ateliers pour pratiquer la &lt;strong&gt;discipline du jeu&lt;/strong&gt; enseignée par Jonathan Dupui.&lt;br /&gt;
+Du théâtre au clown,&lt;br /&gt;
+&lt;strong&gt;tout-novice&lt;/strong&gt;, &lt;strong&gt;amateur&lt;/strong&gt; ou &lt;strong&gt;professionnel&lt;/strong&gt;:&lt;br /&gt;
+VIENS et JOUE!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/ateliersclown.png&#34; alt=&#34;stages theatre&#34; style=&#34;width:200px;height:500px;&#34; align=&#34;left&#34; hspace=”100”&gt;
+&lt;strong&gt;LES ATELIERS BI-MENSUELS DE JEU DE CLOWN&lt;/strong&gt;&lt;br /&gt;
+LE MOT DU PROF:&lt;br /&gt;
+&amp;ldquo;Découvrir le clown,&lt;br /&gt;
+c’est laisser de côté toutes les idées de nous-même.&lt;br /&gt;
+Mais ça ne veut surtout pas dire&lt;br /&gt;
+faire qu’elle ne soient pas là:&lt;br /&gt;
+c’est jouer avec,&lt;br /&gt;
+une bonne fois pour toutes.&amp;rdquo;&lt;br /&gt;
+&lt;br&gt;
+CALENDRIER:&lt;br /&gt;
+Environ 2 Dimanches/mois,&lt;br /&gt;
+pendant 4 Heures,&lt;br /&gt;
+de 17h a 21h.&lt;br /&gt;
+Prochaines séances indiquées à gauche sur ce flyer,&lt;br /&gt;
+ou&lt;br /&gt;
+&lt;a href=&#34;http://localhost:1313/accueil/informations-pratiques/&#34;&gt;CONTACTER Anne Lucie pour + de détails pratiques (ambiance, prix, transport, etc)&lt;/a&gt;.&lt;br /&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/stages.png&#34; alt=&#34;ateliers clown&#34; style=&#34;width:200px;height:500px;&#34; align=&#34;left&#34;&gt;
+&lt;strong&gt;LES WEEK-ENDS MENSUELS DE STAGE DE THEATRE&lt;/strong&gt;&lt;br /&gt;
+LE MOT DU PROF:&lt;br /&gt;
+&amp;ldquo;S’immerger dans le jeu&lt;br /&gt;
+dans l’ambiance d’un dojo (école d&amp;rsquo;arts martiaux),&lt;br /&gt;
+pour découvrir le public&lt;br /&gt;
+comme le centre de l’attention du comédien.&lt;br /&gt;
+Et prendre le temps sur un week-end,&lt;br /&gt;
+d’ouvrir le champ de l’expression.&amp;rdquo;&lt;br /&gt;
+&lt;br&gt;
+CALENDRIER:&lt;br /&gt;
+1 Week-end/mois,&lt;br /&gt;
+pendant 15H,&lt;br /&gt;
+le samedi de 14H a 20h et le dimanche de 11H a 20H,&lt;br /&gt;
+Prochaines séances indiquées à gauche sur ce flyer,&lt;br /&gt;
+ou&lt;br /&gt;
+&lt;a href=&#34;http://localhost:1313/accueil/informations-pratiques/&#34;&gt;CONTACTER Anne Lucie pour plus de détails pratiques (ambiance, prix, transport, etc)&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;PREPARATION AUX CONCOURS&lt;/strong&gt;&lt;br /&gt;
+Intégrer toutes les formations de l’association TeDua, et recevoir des séances de type &amp;ldquo;cours particulier&amp;rdquo; pour &lt;strong&gt;travailler les scènes de concours d&amp;rsquo;entrée dans les grandes écoles de théâtre&lt;/strong&gt;.&lt;br /&gt;
+ Un encadrement en duo par Jonathan Dupui et Simon Delgrange.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;ART-THERAPIE&lt;/strong&gt;&lt;br /&gt;
+Enlever « je », et le remplacer par « jeu ».&lt;br /&gt;
+Permettre ainsi la distance avec soi-même.&lt;br /&gt;
+Et s’offrir la conscience d’avoir toujours été présent.&lt;br /&gt;
+Même au cœur de nos « difficultés ».&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>LES CRÉATIONS TEDUA</title>
-      <link>/blogs/creations-tedua/</link>
+      <link>/accueil/les-creations-tedua/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/creations-tedua/</guid>
-      <description>L&amp;rsquo;association TeDua est aussi une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les âges&amp;hellip;
-CRÉATIONS PASSÉES « J’ai vu d’où venait le vent et j’ai souri » Pièce de plusieurs monologues laissant courir le langage sur l’intimité de l’être, dans l’expression de la recherche de la liberté, pour se reconnaître déjà aussi libre que le vent.
-« Sur l’eau » Inspiré du fait réel d’un navire de migrants, laissés pour compte.</description>
+      <guid>/accueil/les-creations-tedua/</guid>
+      <description>
+
+&lt;p&gt;En plus d&amp;rsquo;une école de pratique du jeu de theatre et de clown, l&amp;rsquo;association TeDua est une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les publics.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;créations-du-moment&#34;&gt;CRÉATIONS DU MOMENT&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;« De l’enfance »&lt;/strong&gt;   (&lt;em&gt;ados et adultes, 6 représentations&lt;/em&gt;)&lt;br /&gt;
+L’auteur a joué avec la parole du nouveau né, annonçant d’une clarté éblouissante la profonde vérité d’être d’office observateur du monde. Car la présence n’a besoin de personne, même pas soi-même, pour être.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://localhost:1313/accueil/kijou/&#34;&gt;&amp;ndash;&amp;gt;Extraits vidéo de la première sortie de résidence au Cerisier ici&amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Anne Lucie Dumay, Jonathan Dupui.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Le clown et la fée »&lt;/strong&gt; (&lt;em&gt;enfants 3-7 ans et parents, 16 représentations&lt;/em&gt;)&lt;br /&gt;
+Le clown en errance a perdu ses couleurs jusqu’à leur souvenir.
+Par l’aide de la fée et des enfants, le clown ira rencontrer ses rêves et découvrira la voix pour les retrouver.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://leclownetlafee.fr&#34;&gt;&amp;ndash;&amp;gt;Le site web du spectacle est visible ici&amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Thibaud Ghidone, Julie Hercberg.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;créations-endormies&#34;&gt;CRÉATIONS ENDORMIES&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;« Sur l’eau »&lt;/strong&gt;(&lt;em&gt;ados et adultes, 1 représentation&lt;/em&gt;)&lt;br /&gt;
+Inspiré du fait réel d’un navire de migrants, laissés pour compte. Sur les berges de l’abandon d’humanité, du système. Un parmi d’autre, s’offre à l’expression face à cette entité venant lui tendre les bras. Et ce un parmi tous, ne pourra que reconnaître la nature profonde de l’être.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Simon Delgrange.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« J’ai vu d’où venait le vent et j’ai souri »&lt;/strong&gt; (&lt;em&gt;ados et adultes, 2 représentations&lt;/em&gt;)&lt;br /&gt;
+Pièce de plusieurs monologues laissant courir le langage sur l’intimité de l’être, dans l’expression de la recherche de la liberté, pour se reconnaître déjà aussi libre que le vent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Les trois petits clochons »&lt;/strong&gt;(&lt;em&gt;ados et adultes, 13 représentations&lt;/em&gt;)&lt;br /&gt;
+Deux clown à la rue, se retrouve dans l’incapacité de faire leur spectacle, il manque le troisième. Plongé dans la farce du clown, sur des airs de déglingué de la vie, nous rencontrons la sensibilité de personnes, hors du voile du clown, hors du voile du SDF. Et les liens impérissables apparaissent.
+&lt;a href=&#34;https://www.facebook.com/lestroispetitsclochons/?refsrc=http%3A%2F%2Fwww.google.com%2F&amp;amp;ref=104#_=_&#34;&gt;&amp;ndash;&amp;gt; Plus d&amp;rsquo;images et d&amp;rsquo;informations sur la page facebook du spectacle&amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Thibaud Ghidone, Jonathan Dupui.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Gaspard ou la nuit de l’ombre »&lt;/strong&gt; (&lt;em&gt;ados et adultes, 1 représentation&lt;/em&gt;)&lt;br /&gt;
+Oeuvre maîtresse de l’auteur, « Gaspard ou la nuit de l’ombre » parle de la dernière nuit d’un clown clochard, posé sur le toit du monde. Devra livrer les luttes de sa condition sociale et de toutes les férocités et craintes cachées de l’humain pour le profit d’un égo, qui ne peut que s’écrouler pour laisser place à la liberté.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://localhost:1313/blogs/narration-du-spectacle-gaspard-ou-la-nuit-de-l-ombre/&#34;&gt;&amp;ndash;&amp;gt; Lire la narration complète sur le Journal de Bord &amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Jonathan Dupui.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Pour toi mon étoile»&lt;/strong&gt;&lt;br /&gt;
+Description en cours de rédaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Les sens de la fuite»&lt;/strong&gt;&lt;br /&gt;
+Description en cours de rédaction.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;co-creations-et-creations-exterieures&#34;&gt;CO-CREATIONS ET CREATIONS EXTERIEURES&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;« Private Joke»&lt;/strong&gt;&lt;br /&gt;
+Description en cours de rédaction.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>LES CRÉATIONS TEDUA</title>
-      <link>/blogs/creations-tedua/</link>
+      <link>/accueil/les-creations-tedua/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/creations-tedua/</guid>
-      <description>L&amp;rsquo;association TeDua est aussi une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les âges&amp;hellip;
-CRÉATIONS PASSÉES « J’ai vu d’où venait le vent et j’ai souri » Pièce de plusieurs monologues laissant courir le langage sur l’intimité de l’être, dans l’expression de la recherche de la liberté, pour se reconnaître déjà aussi libre que le vent.
-« Sur l’eau » Inspiré du fait réel d’un navire de migrants, laissés pour compte.</description>
+      <guid>/accueil/les-creations-tedua/</guid>
+      <description>
+
+&lt;p&gt;En plus d&amp;rsquo;une école de pratique du jeu de theatre et de clown, l&amp;rsquo;association TeDua est une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les publics.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;créations-du-moment&#34;&gt;CRÉATIONS DU MOMENT&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;« De l’enfance »&lt;/strong&gt;   (&lt;em&gt;ados et adultes, 6 représentations&lt;/em&gt;)&lt;br /&gt;
+L’auteur a joué avec la parole du nouveau né, annonçant d’une clarté éblouissante la profonde vérité d’être d’office observateur du monde. Car la présence n’a besoin de personne, même pas soi-même, pour être.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://localhost:1313/accueil/kijou/&#34;&gt;&amp;ndash;&amp;gt;Extraits vidéo de la première sortie de résidence au Cerisier ici&amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Anne Lucie Dumay, Jonathan Dupui.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Le clown et la fée »&lt;/strong&gt; (&lt;em&gt;enfants 3-7 ans et parents, 16 représentations&lt;/em&gt;)&lt;br /&gt;
+Le clown en errance a perdu ses couleurs jusqu’à leur souvenir.
+Par l’aide de la fée et des enfants, le clown ira rencontrer ses rêves et découvrira la voix pour les retrouver.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://leclownetlafee.fr&#34;&gt;&amp;ndash;&amp;gt;Le site web du spectacle est visible ici&amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Thibaud Ghidone, Julie Hercberg.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;créations-endormies&#34;&gt;CRÉATIONS ENDORMIES&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;« Sur l’eau »&lt;/strong&gt;(&lt;em&gt;ados et adultes, 1 représentation&lt;/em&gt;)&lt;br /&gt;
+Inspiré du fait réel d’un navire de migrants, laissés pour compte. Sur les berges de l’abandon d’humanité, du système. Un parmi d’autre, s’offre à l’expression face à cette entité venant lui tendre les bras. Et ce un parmi tous, ne pourra que reconnaître la nature profonde de l’être.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Simon Delgrange.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« J’ai vu d’où venait le vent et j’ai souri »&lt;/strong&gt; (&lt;em&gt;ados et adultes, 2 représentations&lt;/em&gt;)&lt;br /&gt;
+Pièce de plusieurs monologues laissant courir le langage sur l’intimité de l’être, dans l’expression de la recherche de la liberté, pour se reconnaître déjà aussi libre que le vent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Les trois petits clochons »&lt;/strong&gt;(&lt;em&gt;ados et adultes, 13 représentations&lt;/em&gt;)&lt;br /&gt;
+Deux clown à la rue, se retrouve dans l’incapacité de faire leur spectacle, il manque le troisième. Plongé dans la farce du clown, sur des airs de déglingué de la vie, nous rencontrons la sensibilité de personnes, hors du voile du clown, hors du voile du SDF. Et les liens impérissables apparaissent.
+&lt;a href=&#34;https://www.facebook.com/lestroispetitsclochons/?refsrc=http%3A%2F%2Fwww.google.com%2F&amp;amp;ref=104#_=_&#34;&gt;&amp;ndash;&amp;gt; Plus d&amp;rsquo;images et d&amp;rsquo;informations sur la page facebook du spectacle&amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Thibaud Ghidone, Jonathan Dupui.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Gaspard ou la nuit de l’ombre »&lt;/strong&gt; (&lt;em&gt;ados et adultes, 1 représentation&lt;/em&gt;)&lt;br /&gt;
+Oeuvre maîtresse de l’auteur, « Gaspard ou la nuit de l’ombre » parle de la dernière nuit d’un clown clochard, posé sur le toit du monde. Devra livrer les luttes de sa condition sociale et de toutes les férocités et craintes cachées de l’humain pour le profit d’un égo, qui ne peut que s’écrouler pour laisser place à la liberté.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://localhost:1313/blogs/narration-du-spectacle-gaspard-ou-la-nuit-de-l-ombre/&#34;&gt;&amp;ndash;&amp;gt; Lire la narration complète sur le Journal de Bord &amp;lt;&amp;ndash;&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Acteurs: Jonathan Dupui.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Pour toi mon étoile»&lt;/strong&gt;&lt;br /&gt;
+Description en cours de rédaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;« Les sens de la fuite»&lt;/strong&gt;&lt;br /&gt;
+Description en cours de rédaction.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;co-creations-et-creations-exterieures&#34;&gt;CO-CREATIONS ET CREATIONS EXTERIEURES&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;« Private Joke»&lt;/strong&gt;&lt;br /&gt;
+Description en cours de rédaction.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>LES FORMATIONS TEDUA</title>
-      <link>/blogs/formations-tedua/</link>
+      <title>Oct 2018 // Festival KIJOU? #1: Chemin(s) de la semaine</title>
+      <link>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/formations-tedua/</guid>
-      <description>Tout au long de cette saison 2018-2019, l&amp;rsquo;association TeDua te propose des stages, ateliers, formations au Jeu. Du théâtre au clown, amateur ou professionnel, qu(o)i que ce soit: viens et joue!
-Ateliers Clown: Découvrir le clown, c’est laisser de côté toutes les idées de nous même. Mais ça ne veux surtout pas dire faire qu’elle ne sont pas là. Mais c’est jouer avec, une bonne fois pour toutes. Stages théâtre : S’immerger dans le jeu dans l’ambiance d’un dojo (école de judo et aikido), pour découvrir le public comme le centre de l’attention du comédien.</description>
+      <guid>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</guid>
+      <description>
+
+&lt;h2 id=&#34;1-planning&#34;&gt;1. PLANNING&lt;/h2&gt;
+
+&lt;p&gt;Du lundi au samedi:
+- stage de théâtre
+- répétitions quotidiennes ouvertes au public
+- création &amp;amp; spectacle &amp;ldquo;De l&amp;rsquo;enfance&amp;rdquo;(textes et musiques improvisées) tous publics
+- spectacle &amp;ldquo;le clown et la fée&amp;rdquo; pour enfants et familles
+- apéros et déjeuners de quartier
+- atelier de réflexion et conversation sur la diffusion des spectacles vivants et les logiciels libres (avec 3 intervenants de Bordeaux, Lyon et Paris)&lt;/p&gt;
+
+&lt;p&gt;De l&amp;rsquo;élève au maître. De l&amp;rsquo;acteur au metteur en scène. Et toujours, au Public&amp;hellip;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/pic02.jpg&#34; alt=&#34;Planning&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-infos-pratiques&#34;&gt;2. INFOS PRATIQUES&lt;/h2&gt;
+
+&lt;h3 id=&#34;pot-commun-sur-helloasso&#34;&gt;&amp;mdash;POT COMMUN sur Helloasso&lt;/h3&gt;
+
+&lt;p&gt;Pour couvrir les frais de l&amp;rsquo;évènement, nous avons fait un pot commun. Vous pouvez voir les détails des coûts engagés sur le lien ci-dessous:
+&lt;a href=&#34;https://www.helloasso.com/associations/tedua/collectes/kijou-6-jours-de-jeu-ensemble-au-cerisier&#34;&gt;S&amp;rsquo;INSCRIRE  ICI  à 1 ou plusieurs     activités de l&amp;rsquo;évènement KIJOU?&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/helloasso.png&#34; alt=&#34;Pot commun sur HelloAsso&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;résumé-de-la-semaine-au-cerisier&#34;&gt;&amp;mdash;Résumé de la semaine au Cerisier:&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;QUI&lt;/th&gt;
+&lt;th&gt;QUOI&lt;/th&gt;
+&lt;th&gt;OÙ&lt;/th&gt;
+&lt;th&gt;QUAND&lt;/th&gt;
+&lt;th&gt;COMMENT&lt;/th&gt;
+&lt;th&gt;POURQUOI&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;Artistes et Faiseurs&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Formation au jeu &amp;amp; Créations: &amp;ldquo;De l&amp;rsquo;Enfance&amp;rdquo; (tous publics) et &amp;ldquo;Le clown et le fée&amp;rdquo; (enfants et familles). L&amp;rsquo;&lt;a href=&#34;https://www.facebook.com/events/1987585964655561/permalink/1993489544065203/&#34;&gt;ÉVÈNEMENT FACEBOOK est par ici&lt;/a&gt;.&lt;/td&gt;
+&lt;td&gt;Le Cerisier: &lt;a href=&#34;https://www.openstreetmap.org/node/2501777908#map=16/44.8742/-0.5460&#34;&gt;7-11 rue Joseph Brunet, à Bordeaux Bacalan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Du Lundi 22 au Samedi 27 Octobre 2018, les portes s&amp;rsquo;ouvrent tous les jours de 8h à 22h &lt;a href=&#34;https://www.association-tedua.fr/blogs/chemins-de-la-semaine/&#34;&gt;planning complet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Tram B: arrêt Brandenburg, Bus: y en a. Nourriture: décidée spontanément ensemble chaque jour les lundi-mardi-jeudi-vendredi, organisée le mercredi midi (repas bio vegan sans gluten), et jus de fruits maison bio à prix coûtants le samedi soir&lt;/td&gt;
+&lt;td&gt;Être ensemble.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Poursuivre la lecture vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;les Artistes et Faiseurs&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>LES FORMATIONS TEDUA</title>
-      <link>/blogs/formations-tedua/</link>
+      <title>Oct 2018 // Festival KIJOU? #1: Chemin(s) de la semaine</title>
+      <link>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>/blogs/formations-tedua/</guid>
-      <description>Tout au long de cette saison 2018-2019, l&amp;rsquo;association TeDua te propose des stages, ateliers, formations au Jeu. Du théâtre au clown, amateur ou professionnel, qu(o)i que ce soit: viens et joue!
-Ateliers Clown: Découvrir le clown, c’est laisser de côté toutes les idées de nous même. Mais ça ne veux surtout pas dire faire qu’elle ne sont pas là. Mais c’est jouer avec, une bonne fois pour toutes. Stages théâtre : S’immerger dans le jeu dans l’ambiance d’un dojo (école de judo et aikido), pour découvrir le public comme le centre de l’attention du comédien.</description>
+      <guid>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</guid>
+      <description>
+
+&lt;h2 id=&#34;1-planning&#34;&gt;1. PLANNING&lt;/h2&gt;
+
+&lt;p&gt;Du lundi au samedi:
+- stage de théâtre
+- répétitions quotidiennes ouvertes au public
+- création &amp;amp; spectacle &amp;ldquo;De l&amp;rsquo;enfance&amp;rdquo;(textes et musiques improvisées) tous publics
+- spectacle &amp;ldquo;le clown et la fée&amp;rdquo; pour enfants et familles
+- apéros et déjeuners de quartier
+- atelier de réflexion et conversation sur la diffusion des spectacles vivants et les logiciels libres (avec 3 intervenants de Bordeaux, Lyon et Paris)&lt;/p&gt;
+
+&lt;p&gt;De l&amp;rsquo;élève au maître. De l&amp;rsquo;acteur au metteur en scène. Et toujours, au Public&amp;hellip;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/pic02.jpg&#34; alt=&#34;Planning&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-infos-pratiques&#34;&gt;2. INFOS PRATIQUES&lt;/h2&gt;
+
+&lt;h3 id=&#34;pot-commun-sur-helloasso&#34;&gt;&amp;mdash;POT COMMUN sur Helloasso&lt;/h3&gt;
+
+&lt;p&gt;Pour couvrir les frais de l&amp;rsquo;évènement, nous avons fait un pot commun. Vous pouvez voir les détails des coûts engagés sur le lien ci-dessous:
+&lt;a href=&#34;https://www.helloasso.com/associations/tedua/collectes/kijou-6-jours-de-jeu-ensemble-au-cerisier&#34;&gt;S&amp;rsquo;INSCRIRE  ICI  à 1 ou plusieurs     activités de l&amp;rsquo;évènement KIJOU?&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/helloasso.png&#34; alt=&#34;Pot commun sur HelloAsso&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;résumé-de-la-semaine-au-cerisier&#34;&gt;&amp;mdash;Résumé de la semaine au Cerisier:&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;QUI&lt;/th&gt;
+&lt;th&gt;QUOI&lt;/th&gt;
+&lt;th&gt;OÙ&lt;/th&gt;
+&lt;th&gt;QUAND&lt;/th&gt;
+&lt;th&gt;COMMENT&lt;/th&gt;
+&lt;th&gt;POURQUOI&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;Artistes et Faiseurs&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Formation au jeu &amp;amp; Créations: &amp;ldquo;De l&amp;rsquo;Enfance&amp;rdquo; (tous publics) et &amp;ldquo;Le clown et le fée&amp;rdquo; (enfants et familles). L&amp;rsquo;&lt;a href=&#34;https://www.facebook.com/events/1987585964655561/permalink/1993489544065203/&#34;&gt;ÉVÈNEMENT FACEBOOK est par ici&lt;/a&gt;.&lt;/td&gt;
+&lt;td&gt;Le Cerisier: &lt;a href=&#34;https://www.openstreetmap.org/node/2501777908#map=16/44.8742/-0.5460&#34;&gt;7-11 rue Joseph Brunet, à Bordeaux Bacalan&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Du Lundi 22 au Samedi 27 Octobre 2018, les portes s&amp;rsquo;ouvrent tous les jours de 8h à 22h &lt;a href=&#34;https://www.association-tedua.fr/blogs/chemins-de-la-semaine/&#34;&gt;planning complet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Tram B: arrêt Brandenburg, Bus: y en a. Nourriture: décidée spontanément ensemble chaque jour les lundi-mardi-jeudi-vendredi, organisée le mercredi midi (repas bio vegan sans gluten), et jus de fruits maison bio à prix coûtants le samedi soir&lt;/td&gt;
+&lt;td&gt;Être ensemble.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;ndash;&amp;gt; Poursuivre la lecture vers &lt;a href=&#34;https://www.association-tedua.fr/blogs/artistes-et-faiseurs/&#34;&gt;les Artistes et Faiseurs&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
