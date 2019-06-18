@@ -5,8 +5,12 @@ date: 2019-06-17T22:00:00.000Z
 thumbnail: /img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg
 ---
  <BR>
-<BR>
-______________________
+
+
+## <p style="text-align: center;">Les nouveaux gouverneurs</p><p style="text-align: center;">ou</p><p style="text-align: center;">Les fragments de rien</p>
+
+- - -
+
 <p style="text-align: center;">Gégé : Habib</p>
 
 <p style="text-align: center;">Miel : Tristan</p>
@@ -40,17 +44,17 @@ Alors Gégé recule, pour replacer là où le monde “doit se tenir”, lui qui
 
 Gégé s’arrête, pour offrir la première “pause du monde” (une seconde fois) dans le but de  reprendre le bon déroulé du spectacle. Le monde, toujours fidèle au monde, s’arrête ; Gégé redémarre et s’avance donc de nouveau porté par le même entrain, bien qu’un peu déjà grignoté, mais le fidèle monde du monde redémarre aussi. Gégé, pris par l’angoisse de ne pas pouvoir être ce qu’il veut être, commence alors à rigoler nerveusement comme pour nous indiquer comment nous, public, nous avons à trouver ça comique, bien que nous pouvons voir comment il se force à rigoler, alors le monde, toujours aussi peu autonome suit ce mouvement du rire de gégé et rigole.
 
-Là Gégé laisse échapper un soupçon, trop voyant, de colère qu’il rattrappe par un rire qu’il nous offre - lui, il peut -  mais plus nerveux que le précédent. Auquel le monde, toujours aussi vide de substance critique, suit ce même rire grossi. Le monde rit grossièrement aussi, sans chercher à nous offrir quoi que ce soit.
+Là Gégé laisse échapper un soupçon, trop voyant, de colère qu’il rattrape par un rire qu’il nous offre - lui, il peut -  mais plus nerveux que le précédent. Auquel le monde, toujours aussi vide de substance critique, suit ce même rire grossi. Le monde rit grossièrement aussi, sans chercher à nous offrir quoi que ce soit.
 
 Depuis que ce monde est monde nous ne l’avons toujours vu suivre ce qui se présente, telle l’innocence en somme : sans un espace de réponse parce que sans question.
 
 Mais à cette innocence, Gégé fini de dégoupiller, en pourrissant la gueule du monde. Pour que le monde comprenne bien comment c’est à Gégé de faire le truc, tout seul, Et que le monde, lui, n’a à faire rien et surtout pas à interférer.
 
-C’est à ce moment que le monde se divise et se voit divisé, et cherche ce qui est différent, et toutes surfaces est profondément différentes de toutes les autres, les parites du monde nous offrent alors le “premier étonnement du monde”.
+C’est à ce moment que le monde se divise et se voit divisé, et cherche ce qui est différent, et toutes surfaces est profondément différentes de toutes les autres, les parties du monde nous offrent alors le “premier étonnement du monde”.
 
 Et, tout en se débrouillant avec ce reste de colère, tenant fermement un faux large sourire, Gégé s’adresse à Nous :
 
-“Mesdames, Mesdmoiselle, Messieurs,
+“Mesdames, Mesmoiselle, Messieurs,
 
 On nous a demandé, de faire un, un spectacle, Un spectacle pour, pour vous, là. oui, vous, là! pour vous la mettre… pour vous permettre, de déméler, de comprendre, de saisir… qui? Qui? Est… Le Patron ici!… Et sans plus... Attendre… … Je vous demande d’applaudir. En silence. D’applaudir, shut.
 
@@ -60,13 +64,13 @@ d’applaudir en silence donc, ahahah!! Le numbeeeer one, Le number one, Le numb
 
 Quatre espace se dessine :
 
-\    • Maurice, un des fragment du monde, se dit que c’est peut être lui, mais n’est pas sûr,
+• Maurice, un des fragment du monde, se dit que c’est peut être lui, mais n’est pas sûr,
 
-\    • Irène s’approche directement, voir tendue, vers un de nous qui semble le plus ressembler à une petite princesse, et pointe du doigt ce un-de-nous. et regarde Gégé,
+• Irène s’approche directement, voir tendue, vers un de nous qui semble le plus ressembler à une petite princesse, et pointe du doigt ce un-de-nous. et regarde Gégé,
 
-\    • Le reste du monde, le reste,
+• Le reste du monde, le reste,
 
-\    • Nadine, elle n’a rien écouté du tout.
+• Nadine, elle n’a rien écouté du tout.
 
 Maurice alors comprend que ce n’est pas lui, et part, triste. seul.
 
@@ -126,43 +130,43 @@ Irène et Nadine se redresse.
 
 “
 
-\    • On t’avais dit de mettre de la crème
+\- On t’avais dit de mettre de la crème
 
-\    • Il brûle.
+\- Il brûle.
 
-\    • Beh oui, on lui avait dit de mettre de la crème aussi.
+\- Beh oui, on lui avait dit de mettre de la crème aussi.
 
-\    • Il brûle.
+\- Il brûle.
 
-\    • Ah beh le soleil est fort aussi.
+\- Ah beh le soleil est fort aussi.
 
-\    • Ah oui… Il brûle.
+\- Ah oui… Il brûle.
 
-\    • Ça lui fera les pieds un peu.
+\- Ça lui fera les pieds un peu.
 
-\    • Il cloque là. il cloque.
+\- Il cloque là. il cloque.
 
-\    • Oh mais tu sais pas comme il veut pas écouter. On t’avais dit de mettre de la crème!
+\- Oh mais tu sais pas comme il veut pas écouter. On t’avais dit de mettre de la crème!
 
-\    • Il y a des flammes quand même.
+\- Il y a des flammes quand même.
 
-\    • Ça, c’est pas des flammes, c’est qu’il trouve toujours comment faire le malin.
+\- Ça, c’est pas des flammes, c’est qu’il trouve toujours comment faire le malin.
 
-\    • Je sais pas… Peut être, dis lui d’aller dans l’eau...
+\- Je sais pas… Peut être, dis lui d’aller dans l’eau...
 
-\    • Ah!! On peut jamais être tranquille. Jamais! Va dans l’eau!! Va dans l’eau!! que tu es idiots mon fils… “elle est où?” Là! Va dans l’eau.
+\- Ah!! On peut jamais être tranquille. Jamais! Va dans l’eau!! Va dans l’eau!! que tu es idiots mon fils… “elle est où?” Là! Va dans l’eau.
 
-\    • Eh beh… 
+\- Eh beh… 
 
-\    • Faut bien, bien les mater si on veut que le monde roule.
+\- Faut bien, bien les mater si on veut que le monde roule.
 
-\    • Ah oui, avec des bons coups, on arrive à tout!
+\- Ah oui, avec des bons coups, on arrive à tout!
 
-\    • Faut pas avoir peur de bien s’équiper aussi.
+\- Faut pas avoir peur de bien s’équiper aussi.
 
-\    • Ah oui! plus armé plus en paix! (sors une arme blanche)
+\- Ah oui! plus armé plus en paix! (sors une arme blanche)
 
-\    • Qu’il se fasse une place, quoi... Dans ce monde de Co…”
+\- Qu’il se fasse une place, quoi... Dans ce monde de Co…”
 
 Irène et Nadine se fige, comme surpris dans une bêtise collective, comme si d’un coup, elle avait le regard du monde sur elle, comme si ce monde n'avait pas bougé durant toute la violence et la bêtise de cette scène, comme si le monde acceptait cette tragédie. Le rire de Gégé est heureux d’avoir pu montrer autant de joie dans cette dernière scène. Et tous les autres aussi, sont heureux avec Gégé. Rire Générale.
 
@@ -244,11 +248,11 @@ LUMIÈRE. BASSE.
 
 “
 
-\    • Bonjour je cherche l’Autre, on m’a dit que c’était lui le vrai patron, en vrai, c’est vous?
+\- Bonjour je cherche l’Autre, on m’a dit que c’était lui le vrai patron, en vrai, c’est vous?
 
-\    • Ah non, là c’est moi. C’est vous!
+\- Ah non, là c’est moi. C’est vous!
 
-\    • Ah beh non là c’est moi…
+\- Ah beh non là c’est moi…
 
 “
 
