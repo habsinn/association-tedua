@@ -30,9 +30,9 @@ LES NOUVEAUX GOUVERNEURS - écrit et mis en scène par Jonathan Dupui.
 
 Au cours des 2 représentations de ce spectacle amateur, les clowns tenteront de répondre avec le public à la question : "Qui est le patron ici ?!" .
 
-![](/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg)
-
-\---
+![]()
+<center> <img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="les nouveaux gouverneurs" height="350" width="600"> </center>
+---
 
 **PROGRAMME DU WEEK-END :**
 
@@ -72,4 +72,4 @@ au **06 15 60 97 04**
 
 ou à l'adresse mail **diffusion@association-tedua.fr**  .
 
-![](/img/uploads/affiche-spectacle-clown-tedua-les-nouveaux-gouverneurs.jpg)
+<center> <img src="/img/uploads/affiche-spectacle-clown-tedua-les-nouveaux-gouverneurs.jpg" alt="les nouveaux gouverneurs" height="600" width="420"> </center>
