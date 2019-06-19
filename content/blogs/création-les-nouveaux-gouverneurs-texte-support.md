@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: CRÉATION  | "Les Nouveaux Gouverneurs" | texte support
+title: Juin 2019 // CRÉATION  | "Les Nouveaux Gouverneurs" | texte support
 date: 2019-06-17T22:00:00.000Z
 thumbnail: /img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg
 ---
