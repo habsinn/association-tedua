@@ -4,20 +4,33 @@ title: Juin 2019 // Portes ouvertes et Spectacle de l'atelier clown
 date: 2019-06-19T08:20:57.917Z
 thumbnail: /img/uploads/banniere-spectacle-clown.jpg
 ---
-Les élèves de l'atelier clown de Tedua<br> 
-Adèle Gallard<br>
-Alexandre Galley<br>
-Alexandre Giraud<br> 
-Anne Lucie Dumay<br>
-Bastien Lasserre<br>
-Habib Belaribi<br>
-Ronan Lestrade<br>
-Tristan Leyri<br>
-vous présentent **LES NOUVEAUX GOUVERNEURS** - écrit et mis en scène par Jonathan Dupui.<br>
+<p style="text-align: center;">Les élèves de l'atelier clown de Tedua</p>
 
-Au cours des 2 représentations de ce spectacle amateur, les clowns tenteront de répondre avec le public à la question : "Qui est le patron ici ?!" .
+<p style="text-align: center;">Adèle Gallard</p>
 
-<center> <img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="les nouveaux gouverneurs" height="350" width="600"> </center>
+<p style="text-align: center;">Alexandre Galley</p>
+
+<p style="text-align: center;">Alexandre Giraud</p>
+
+<p style="text-align: center;">Anne Lucie Dumay</p>
+
+<p style="text-align: center;">Bastien Lasserre</p>
+
+<p style="text-align: center;">Habib Belaribi</p>
+
+<p style="text-align: center;">Ronan Lestrade</p>
+
+<p style="text-align: center;">Tristan Leyri</p>
+
+<p style="text-align: center;">vous présentent **LES NOUVEAUX GOUVERNEURS** - écrit et mis en scène par Jonathan Dupui.</p>
+
+<p style="text-align: center;">Au cours des 2 représentations de ce spectacle amateur, les clowns tenteront de répondre avec le public à la question : "Qui est le patron ici ?!" .</p>
+
+<br>
+
+
+
+<center> <img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="les nouveaux gouverneurs" height="250" width="450"> </center>
 
 - - -
 
@@ -47,8 +60,8 @@ C'est l'occasion de rencontrer l'association TEDUA et **la discipline du jeu de 
 
 Entrée libre tout au long du week-end au **50 rue du Mirail 33000 Bordeaux**.
 
-**Réservation** recommandée pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve),   
-auprès d' Anne Lucie Dumay   
+**Réservation** recommandée pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve),\
+auprès d' Anne Lucie Dumay\
 au **06 15 60 97 04**\
 ou à l'adresse mail **diffusion@association-tedua.fr**  .
 
