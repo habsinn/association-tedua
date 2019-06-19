@@ -4,8 +4,7 @@ title: Juin 2019 // Portes ouvertes et Spectacle de l'atelier clown
 date: 2019-06-19T08:20:57.917Z
 thumbnail: /img/uploads/banniere-spectacle-clown.jpg
 ---
-Les élèves de l'atelier clown de Tedua 
-
+Les élèves de l'atelier clown de Tedua<br> 
 Adèle Gallard<br>
 Alexandre Galley<br>
 Alexandre Giraud<br> 
@@ -14,8 +13,7 @@ Bastien Lasserre<br>
 Habib Belaribi<br>
 Ronan Lestrade<br>
 Tristan Leyri<br>
-
-vous présentent **LES NOUVEAUX GOUVERNEURS** - écrit et mis en scène par Jonathan Dupui.
+vous présentent **LES NOUVEAUX GOUVERNEURS** - écrit et mis en scène par Jonathan Dupui.<br>
 
 Au cours des 2 représentations de ce spectacle amateur, les clowns tenteront de répondre avec le public à la question : "Qui est le patron ici ?!" .
 
@@ -49,9 +47,11 @@ C'est l'occasion de rencontrer l'association TEDUA et **la discipline du jeu de 
 
 Entrée libre tout au long du week-end au **50 rue du Mirail 33000 Bordeaux**.
 
-**Réservation** recommandée pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve), 
-auprès d' Anne Lucie Dumay 
+**Réservation** recommandée pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve),   
+auprès d' Anne Lucie Dumay   
 au **06 15 60 97 04**\
 ou à l'adresse mail **diffusion@association-tedua.fr**  .
+
+Plus d'informations sur [l'événement facebook](https://www.facebook.com/events/2322820151272626/).
 
 <center> <img src="/img/uploads/affiche-spectacle-clown-tedua-les-nouveaux-gouverneurs.jpg" alt="les nouveaux gouverneurs" height="600" width="420"> </center>
