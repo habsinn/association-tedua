@@ -4,8 +4,7 @@ title: Juin 2019 // Portes ouvertes et Spectacle de l'atelier clown
 date: 2019-06-19T08:20:57.917Z
 thumbnail: /img/uploads/banniere-spectacle-clown.jpg
 ---
-Les élèves de l'atelier clown de Tedua 
-
+Les élèves de l'atelier clown de Tedua<br> 
 Adèle Gallard<br>
 Alexandre Galley<br>
 Alexandre Giraud<br> 
@@ -14,8 +13,7 @@ Bastien Lasserre<br>
 Habib Belaribi<br>
 Ronan Lestrade<br>
 Tristan Leyri<br>
-
-vous présentent **LES NOUVEAUX GOUVERNEURS** - écrit et mis en scène par Jonathan Dupui.
+vous présentent **LES NOUVEAUX GOUVERNEURS** - écrit et mis en scène par Jonathan Dupui.<br>
 
 Au cours des 2 représentations de ce spectacle amateur, les clowns tenteront de répondre avec le public à la question : "Qui est le patron ici ?!" .
 
