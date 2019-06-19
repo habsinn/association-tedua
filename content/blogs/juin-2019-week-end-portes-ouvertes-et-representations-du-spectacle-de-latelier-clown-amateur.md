@@ -17,7 +17,7 @@ vous présentent **LES NOUVEAUX GOUVERNEURS** - écrit et mis en scène par Jona
 
 Au cours des 2 représentations de ce spectacle amateur, les clowns tenteront de répondre avec le public à la question : "Qui est le patron ici ?!" .
 
-<center> <img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="les nouveaux gouverneurs" height="350" width="600"> </center>
+<center> <img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="les nouveaux gouverneurs" height="250" width="450"> </center>
 
 - - -
 
