@@ -47,7 +47,7 @@ C'est l'occasion de rencontrer l'association TEDUA et **la discipline du jeu de 
 
 Entrée libre tout au long du week-end au **50 rue du Mirail 33000 Bordeaux**.
 
-**Réservation** recommandée pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve), 
+**Réservation** recommandée pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve),   
 auprès d' Anne Lucie Dumay   
 au **06 15 60 97 04**\
 ou à l'adresse mail **diffusion@association-tedua.fr**  .
