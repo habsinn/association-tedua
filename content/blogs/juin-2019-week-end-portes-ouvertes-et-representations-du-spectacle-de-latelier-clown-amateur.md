@@ -52,4 +52,6 @@ auprès d' Anne Lucie Dumay
 au **06 15 60 97 04**\
 ou à l'adresse mail **diffusion@association-tedua.fr**  .
 
++ d'informations sur [l'événement facebook](https://www.facebook.com/events/2322820151272626/).
+
 <center> <img src="/img/uploads/affiche-spectacle-clown-tedua-les-nouveaux-gouverneurs.jpg" alt="les nouveaux gouverneurs" height="600" width="420"> </center>
