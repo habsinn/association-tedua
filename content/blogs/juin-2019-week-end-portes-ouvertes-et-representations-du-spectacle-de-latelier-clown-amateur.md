@@ -30,9 +30,9 @@ LES NOUVEAUX GOUVERNEURS - écrit et mis en scène par Jonathan Dupui.
 
 Au cours des 2 représentations de ce spectacle amateur, les clowns tenteront de répondre avec le public à la question : "Qui est le patron ici ?!" .
 
-![]()
 <center> <img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="les nouveaux gouverneurs" height="350" width="600"> </center>
----
+
+- - -
 
 **PROGRAMME DU WEEK-END :**
 
@@ -41,30 +41,26 @@ C'est l'occasion de rencontrer l'association TEDUA et **la discipline du jeu de 
 **\>> Samedi 22 juin** :
 
 * 10h : ouverture des portes  
-* 11h-12h30 : cours / initiation théâtre pour enfants
-* 14h-16h : cours / initiation théâtre et clown pour adulte
-* 19h : Spectacle de l'atelier Clown "Les nouveaux gouverneurs"
+* 11h-12h30 : **cours** / initiation théâtre pour **enfants**
+* 14h-16h : **cours** / initiation théâtre et clown pour **adultes**
+* 19h : **spectacle** de l'atelier Clown "Les nouveaux gouverneurs"
 * 20h : apéro / soirée
-
-
-
-
 
 **\>>** **Dimanche 23 juin** :
 
 * 10h30 : ouverture des portes
-* 11h-12h30 : cours / initiation théâtre pour enfants
-* 16h : Spectacle de l'atelier Clown "Les nouveaux gouverneurs"
+* 11h-12h30 : **cours** / initiation théâtre pour **enfants**
+* 16h : **spectacle** de l'atelier Clown "Les nouveaux gouverneurs"
 * 17h : goûter 
-* 18h-20h : cours / initiation théâtre et clown pour adulte
+* 18h-20h : **cours** / initiation théâtre et clown pour **adultes**
 
-\---
+- - -
 
 **ENTRÉE LIBRE** :
 
-Entre libre tout au long du week-end au **50 rue du Mirail 33000 Bordeaux**.
+Entrée libre tout au long du week-end au **50 rue du Mirail 33000 Bordeaux**.
 
-**Réservation recommandée** pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve), 
+**Réservation** recommandée pour les 2 représentations du spectacle (sinon tentez votre chance le jour J, nous avons quelques chaises en réserve), 
 
 auprès d' Anne Lucie Dumay 
 
