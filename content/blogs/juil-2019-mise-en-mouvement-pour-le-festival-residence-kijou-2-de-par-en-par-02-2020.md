@@ -21,8 +21,11 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 3 espaces se dessinent :
 
 \-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html).
-![](/img/uploads/kijou1-screenshot.png)
--- **SPECTACLES** : 4 représentations de clown -["Les Nouveaux Gouverneurs: qui est le patron ici?!"](https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) écrit et mise en scène par Jonathan Dupui- et de théâtre -["Mégaphonie" de Louis Calaferte](http://www.bordonor.org/ce-mois-au-theatre-la-boite-a-jouer/)- seront jouées pour créer des rencontres vivantes avec le grand public.
+
+
+![](/img/uploads/de-par-en-par-jeu.jpeg)
+
+\-- **SPECTACLES** : 4 représentations de clown -["Les Nouveaux Gouverneurs: qui est le patron ici?!"](https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) écrit et mise en scène par Jonathan Dupui- et de théâtre -["Mégaphonie" de Louis Calaferte](http://www.bordonor.org/ce-mois-au-theatre-la-boite-a-jouer/)- seront jouées pour créer des rencontres vivantes avec le grand public.
 
 ![](/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg)
 
