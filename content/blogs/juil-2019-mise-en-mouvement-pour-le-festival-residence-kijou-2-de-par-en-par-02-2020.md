@@ -10,7 +10,7 @@ En octobre 2018, pendant 6 jours au [Théâtre du Cerisier](http://www.lecerisie
 
 [Un résumé complet de KIJOU? #1 est visible en cliquant sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
 
-![](/img/uploads/kijou1-screenshot.png)
+<a href="https://leclownetlafee.fr/" rel="site web officiel Le clown et la fée"><img src="/img/uploads/kijou1-screenshot.png" alt="" width="600" height="400" align="middle" /></a>
 
 ## **<br>**
 
