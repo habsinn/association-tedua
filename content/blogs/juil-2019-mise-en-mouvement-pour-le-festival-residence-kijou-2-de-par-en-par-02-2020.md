@@ -10,7 +10,7 @@ En octobre 2018, pendant 6 jours au [Théâtre du Cerisier](http://www.lecerisie
 
 [Un résumé complet de KIJOU? #1 est visible en cliquant sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
 
-<a href="https://leclownetlafee.fr/" rel="site web officiel Le clown et la fée"><img src="/img/uploads/kijou1-screenshot.png" alt="" width="600" height="400" align="middle" /></a>
+<a href="https://www.association-tedua.fr/accueil/kijou/" rel="KIJOU? #1"><img src="/img/uploads/kijou1-screenshot.png" alt="" width="500" height="350" align="middle" /></a>
 
 ## **<br>**
 
@@ -20,17 +20,16 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 3 espaces se dessinent :
 
-\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html)(BLOOK) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html)(BLOOK).
+\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable et imprimable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html)(BLOOK) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html)(BLOOK).
+<a href="https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html" rel="De par en par - le jeu"><img src="/img/uploads/de-par-en-par-jeu.jpeg" alt="" width="600" height="400" align="middle" /></a>
 
-![](/img/uploads/de-par-en-par-jeu.jpeg)
 
 \-- **SPECTACLES** : 4 représentations de clown -["Les Nouveaux Gouverneurs: qui est le patron ici?!"](https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) écrit et mise en scène par Jonathan Dupui- et de théâtre -["Mégaphonie" de Louis Calaferte](http://www.bordonor.org/ce-mois-au-theatre-la-boite-a-jouer/)- seront jouées pour créer des rencontres vivantes avec le grand public.
-
-![](/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg)
+<a href="https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/" rel="Les nouveaux gouverneurs"><img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="" width="600" height="350" align="middle" /></a>
 
 \-- **WEB RADIO ÉPHÉMÈRE, locale et transnationale** : inspirée du projet de radio locale créatrice de conversations ["Mint Festival*" co-organisé par David Bovill en 2017](http://david.feast.fm/view/community-festival/view/internet-enabled-local-radio/view/radio-garden) dans le quartier de Finsbury Park. _\*"Festival de la Menthe"_
-
-![](/img/uploads/radio-garden-screenshot.png)
+<a href="https://radio.garden/listen/lacdo/tAON7gFf"><img src="/img/uploads/radio-garden-screenshot.png" alt="" width="600" height="300" align="middle" /></a>
+![]()
 
 <br>
 
