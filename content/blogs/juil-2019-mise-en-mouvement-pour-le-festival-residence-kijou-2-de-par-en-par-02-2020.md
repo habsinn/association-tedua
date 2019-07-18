@@ -28,6 +28,8 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 \-- **WEB RADIO ÉPHÉMÈRE, locale et transnationale** : inspirée du projet de radio locale créatrice de conversations ["Mint Festival*" co-organisé par David Bovill en 2017](http://david.feast.fm/view/community-festival/view/internet-enabled-local-radio/view/radio-garden) dans le quartier de Finsbury Park. _\*"Festival de la Menthe"_
 
+![](/img/uploads/radio-garden-screenshot.png)
+
 <br>
 
 ## Participer au projet
