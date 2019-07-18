@@ -36,7 +36,7 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 ## Participer au projet
 
-Notre réponse complète pour l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative" est disponible à ce lien, avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.
+[Notre réponse complète ](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn)[à](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn)[ l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative" est disponible à ce lien](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn), avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.
 
 Et nous remercions d'ores et déjà chaleureusement Kirten Lecoq, qui nous fait confiance en acceptant d'ouvrir les portes de la [ Halle des Douves](https://www.douves.org/) comme lieu de rencontre et de création pivot de KIJOU? #2 !
 
