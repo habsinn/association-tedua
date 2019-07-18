@@ -10,6 +10,8 @@ En octobre 2018, pendant 6 jours au [Théâtre du Cerisier](http://www.lecerisie
 
 [Un résumé complet de KIJOU? #1 est visible en cliquant sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
 
+![](/img/uploads/kijou1-screenshot.png)
+
 \[IMAGE]
 
 Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l'autre_ reste au centre, les mises en forme et en mouvement évoluent en s'ouvrant à de nouveaux collectifs et réseaux d'**artistes, étudiants, professionnels de l’Économie Sociale et Solidaire de Bordeaux**,**et de lieux ancrés dans le quartier Saint Michel-Capucins en lien avec des habitants de quartiers de Londres ou de Barcelone** (projet SPACE Network mené par le londonien David Bovill, au croisement de la recherche, de l'art et de l'innovation politique), et en choisissant de **traiter du travail et de l’économie dans la question du vivre-ensemble**, en partant du mot-clé _économie collaborative_.
