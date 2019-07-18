@@ -12,7 +12,11 @@ En octobre 2018, pendant 6 jours au [Théâtre du Cerisier](http://www.lecerisie
 
 ![](/img/uploads/kijou1-screenshot.png)
 
-\[IMAGE]
+## **<br>**
+
+
+
+## KIJOU? #2
 
 Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l'autre_ reste au centre, les mises en forme et en mouvement évoluent en s'ouvrant à de nouveaux collectifs et réseaux d'**artistes, étudiants, professionnels de l’Économie Sociale et Solidaire de Bordeaux**,**et de lieux ancrés dans le quartier Saint Michel-Capucins en lien avec des habitants de quartiers de Londres ou de Barcelone** (projet SPACE Network mené par le londonien David Bovill, au croisement de la recherche, de l'art et de l'innovation politique), et en choisissant de **traiter du travail et de l’économie dans la question du vivre-ensemble**, en partant du mot-clé _économie collaborative_.
 
@@ -24,6 +28,18 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 \-- **WEB RADIO ÉPHÉMÈRE, locale et transnationale** : inspirée du projet de radio locale créatrice de conversations ["Mint Festival*" co-organisé par David Bovill en 2017](http://david.feast.fm/view/community-festival/view/internet-enabled-local-radio/view/radio-garden) dans le quartier de Finsbury Park. _\*"Festival de la Menthe"_
 
+<br>
+
+## Participer au projet
+
 Notre réponse complète pour l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative" est disponible à ce lien, avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.
 
-Nous remercions d'ores et déjà chaleureusement Kirten Lecoq, qui nous fait confiance en acceptant d'ouvrir les portes de la [ Halle des Douves](https://www.douves.org/) comme lieu de rencontre et de création pivot de KIJOU? #2 !
+Et nous remercions d'ores et déjà chaleureusement Kirten Lecoq, qui nous fait confiance en acceptant d'ouvrir les portes de la [ Halle des Douves](https://www.douves.org/) comme lieu de rencontre et de création pivot de KIJOU? #2 !
+
+Le projet se forme au rythme des rencontres humaines, artistiques et des énergies qui souhaitent composer avec nous. Pour contribuer ou participer à l’événement, entrez en lien avec :
+
+**Anne Lucie Dumay et Habib Belaribi**
+
+**diffusion@association-tedua.fr**
+
+**06 15 60 97 04**
