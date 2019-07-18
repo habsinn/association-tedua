@@ -20,8 +20,7 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 3 espaces se dessinent :
 
-\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html).
-
+\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html)(BLOOK) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html)(BLOOK).
 
 ![](/img/uploads/de-par-en-par-jeu.jpeg)
 
