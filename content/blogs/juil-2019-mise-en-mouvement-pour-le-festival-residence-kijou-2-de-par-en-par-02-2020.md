@@ -10,7 +10,7 @@ En octobre 2018, pendant 6 jours au [Théâtre du Cerisier](http://www.lecerisie
 
 [Un résumé complet de KIJOU? #1 est visible en cliquant sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
 
-![](/img/uploads/kijou1-screenshot.png)
+<a href="https://leclownetlafee.fr/" rel="site web officiel Le clown et la fée"><img src="/img/uploads/kijou1-screenshot.png" alt="" width="600" height="400" align="middle" /></a>
 
 ## **<br>**
 
@@ -20,8 +20,7 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 3 espaces se dessinent :
 
-\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html).
-
+\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html)(BLOOK) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html)(BLOOK).
 
 ![](/img/uploads/de-par-en-par-jeu.jpeg)
 
@@ -37,7 +36,7 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 ## Participer au projet
 
-Notre réponse complète pour l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative" est disponible à ce lien, avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.
+[Notre réponse complète ](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn)[à](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn)[ l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative" est disponible à ce lien](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn), avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.
 
 Et nous remercions d'ores et déjà chaleureusement Kirten Lecoq, qui nous fait confiance en acceptant d'ouvrir les portes de la [ Halle des Douves](https://www.douves.org/) comme lieu de rencontre et de création pivot de KIJOU? #2 !
 
