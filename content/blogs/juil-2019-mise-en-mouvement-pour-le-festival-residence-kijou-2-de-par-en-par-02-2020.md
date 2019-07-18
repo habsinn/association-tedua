@@ -6,13 +6,13 @@ title: >-
 date: 2019-07-18T11:41:33.506Z
 thumbnail: /img/uploads/de-par-en-par-4.jpg
 ---
-En Octobre 2018, pendant 6 jours au Théâtre du Cerisier, nous avons organisé la première Résidence-festival KIJOU? #1 de Tedua avec au centre de cet espace-temps, la question de l'accueil et de la place du public, de l'autre en somme, comme déclinaison des deux questions fil rouge de l'enseignement propose par Jonathan Dupui : "Où se trouve le jeu?" et "Qui joue?" .
+En octobre 2018, pendant 6 jours au [Théâtre du Cerisier](http://www.lecerisier.org/index.php?option=com_content&view=article&id=302&Itemid=107), nous avons organisé la première **Festival-résidence KIJOU? #1** de Tedua avec au centre de cet espace-temps, la **question de l'accueil et de la place du public**, de l'autre en somme, comme déclinaison des deux questions fil rouge de l'enseignement proposé par Jonathan Dupui : "_Où se trouve le jeu?_" et "_Qui joue?_" .
 
-[Un résumé complet de la première édition est visible en cliquant sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
+[Un résumé complet de KIJOU? #1 est visible en cliquant sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
 
 \[IMAGE]
 
-Pour la deuxième édition, si le souci de l'attention à l'autre reste au centre, les mises en forme et en mouvement évoluent en s'ouvrant à de nouveaux collectifs et réseaux d'artistes, d’étudiants, de professionnels de l’Économie Sociale et Solidaire de Bordeaux, mais aussi de lieux ancres dans le quartier Saint Michel en lien avec des habitants de quartiers de Londres ou de Barcelone (projet \*SPACE Network\* mené par le londonien David Bovill, au croisement de la rechercher, de l'art et de l'innovation politique), et en choisissant de traiter du travail et de l’économie dans la question du vivre-ensemble en partant du mot-clé "économie collaborative".
+Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l'autre_ reste au centre, les mises en forme et en mouvement évoluent en s'ouvrant à de nouveaux collectifs et réseaux d'**artistes, étudiants, professionnels de l’Économie Sociale et Solidaire de Bordeaux**,**et de lieux ancrés dans le quartier Saint Michel-Capucins en lien avec des habitants de quartiers de Londres ou de Barcelone** (projet SPACE Network mené par le londonien David Bovill, au croisement de la recherche, de l'art et de l'innovation politique), et en choisissant de **traiter du travail et de l’économie dans la question du vivre-ensemble**, en partant du mot-clé _économie collaborative_.
 
 3 espaces se dessinent :
 
@@ -20,8 +20,8 @@ Pour la deuxième édition, si le souci de l'attention à l'autre reste au centr
 
 \-- **SPECTACLES** : 4 représentations de clown -["Les Nouveaux Gouverneurs: qui est le patron ici?!"](https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) écrit et mise en scène par Jonathan Dupui- et de théâtre -["Mégaphonie" de Louis Calaferte](http://www.bordonor.org/ce-mois-au-theatre-la-boite-a-jouer/)- seront jouées pour créer des rencontres vivantes avec le grand public.
 
-\-- **WEB RADIO ÉPHÉMÈRE, locale et transnationale** : inspirée du projet de radio locale creatrice de conversations ["Mint Festival*" co-organisé par David Bovill en 2017](http://david.feast.fm/view/community-festival/view/internet-enabled-local-radio/view/radio-garden) dans le quartier de Finsbury Park. _\*"Festival de la Menthe"_
+\-- **WEB RADIO ÉPHÉMÈRE, locale et transnationale** : inspirée du projet de radio locale créatrice de conversations ["Mint Festival*" co-organisé par David Bovill en 2017](http://david.feast.fm/view/community-festival/view/internet-enabled-local-radio/view/radio-garden) dans le quartier de Finsbury Park. _\*"Festival de la Menthe"_
 
-Voici la réponse complète que nous avons faite pour l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative", avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.
+Notre réponse complète pour l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative" est disponible à ce lien, avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.
 
-Nous remercions d'ores et déjà chaleureusement Kirten Lecoq de la[ Halle des Douves](https://www.douves.org/) qui nous fait confiance en acceptant d'ouvrir ses portes comme lieu de rencontre principal de KIJOU? #2.
+Nous remercions d'ores et déjà chaleureusement Kirten Lecoq, qui nous fait confiance en acceptant d'ouvrir les portes de la [ Halle des Douves](https://www.douves.org/) comme lieu de rencontre et de création pivot de KIJOU? #2 !
