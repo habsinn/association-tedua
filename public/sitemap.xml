@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-01T18:30:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/oct-2019-weekend-de-theatre-en-immersion-nov/</loc>
+    <lastmod>2019-10-01T18:30:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/juil-2019-annonce-festival-residence-kijou-2-fevrier-2020/</loc>
+    <lastmod>2019-07-18T11:41:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/</loc>
+    <lastmod>2019-06-19T08:20:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/cr%C3%A9ation-les-nouveaux-gouverneurs-texte-support/</loc>
+    <lastmod>2019-06-17T22:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>/blogs/narration-du-spectacle-gaspard-ou-la-nuit-de-l-ombre/</loc>
@@ -14,6 +40,16 @@
   <url>
     <loc>/blogs/extrait-spectacle-de-l-enfance/</loc>
     <lastmod>2018-10-12T13:01:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accueil/</loc>
+    <lastmod>2018-02-05T18:28:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2018-02-05T18:28:43+00:00</lastmod>
   </url>
   
   <url>
@@ -47,6 +83,11 @@
   </url>
   
   <url>
+    <loc>/accueil/l-ecole-tedua/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/accueil/les-creations-tedua/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
@@ -57,30 +98,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2018-02-05T18:28:43+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/accueil/kijou/</loc>
-  </url>
-  
-  <url>
-    <loc>/accueil/</loc>
-    <lastmod>2018-02-05T18:28:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-05-15T18:30:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
