@@ -2,7 +2,7 @@
 title: "Oct 2018 // Festival KIJOU? #1: Chemin(s) de la semaine"
 description: "Stage de théâtre et Répétitions quotidiennes ouvertes au public, Création & Spectacle grand public,..."
 slug: "chemins-de-la-semaine-inscriptions-et-infos-pratiques"
-image: pic02.jpg
+image: img/pic02.jpg
 keywords: ""
 categories:
     - ""

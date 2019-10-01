@@ -2,7 +2,7 @@
 title: "Oct 2018 // Festival KIJOU? #1: l'atelier Diffuseurs & Numérique Libre"
 description: "L'art n'est là que pour autrui. Et là est précisément le pouvoir du diffuseur: d'où l'art doit-il être vu? Au cours de ces 2 heures de pause-déjeuner,..."
 slug: "le-déj-diffuseurs-et-numérique"
-image: pic04.jpg
+image: "img/pic04.jpg"
 keywords: ""
 categories:
     - ""

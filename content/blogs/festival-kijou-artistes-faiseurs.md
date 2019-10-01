@@ -2,7 +2,7 @@
 title: "Oct 2018 // Festival KIJOU? #1 : Artistes & Faiseurs "
 description: "Plus de 30 comédiens, élèves, enseignant, musiciens, artisans..."
 slug: "artistes-et-faiseurs"
-image: pic03.jpg
+image: "img/pic03.jpg"
 keywords: ""
 categories:
     - ""

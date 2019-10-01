@@ -96,8 +96,8 @@ disqusShortname = ""
       url = "accueil/les-creations-tedua"
 
     [[params.tiles.showcase]]
-      title = "L'Ecole Tedua"
-      subtitle = "Tout au long de l'année, l'association TeDua propose des stages et des ateliers pour pratiquer la discipline du jeu enseignée par Jonathan Dupui. Du théâtre au clown, novice, amateur ou pro: bienvenue... [cliquer ici-->]"
+      title = "Travail du jeu : théâtre et clown"
+      subtitle = "Tout au long de l'année, l'association TeDua propose des ateliers hebdomadaires,  des stages, des préparations aux concours d’entrée aux grandes écoles. On y pratique la discipline du jeu enseignée par Jonathan Dupui. Novice, initié, amateur ou pro: bienvenue !"
       image = "pic03.jpg"
       url = "accueil/l-ecole-tedua"
 
@@ -113,6 +113,11 @@ disqusShortname = ""
       image = "stages.jpg"
       url = "accueil/informations-pratiques"
 
+  [[params.tiles.showcase]]
+      title = "L'Ecole Tedua"
+      subtitle = "Tout au long de l'année, l'association TeDua propose des stages et des ateliers pour pratiquer la discipline du jeu enseignée par Jonathan Dupui. Du théâtre au clown, novice, amateur ou pro: bienvenue... [cliquer ici-->]"
+      image = "pic03.jpg"
+      url = "accueil/l-ecole-tedua"
  
     # You can make more showcases by copy and pasting the code above
 

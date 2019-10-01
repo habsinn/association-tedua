@@ -1,8 +1,6 @@
 ---
 layout: blog
-title: >-
-  JUIL 2019 // Mise en mouvement pour le Festival-residence KIJOU? #2 - "de Par
-  en Par" (02/2020)
+title: Juil 2019 // ANNONCE | Festival-résidence KIJOU? 2 | Fevrier 2020
 date: 2019-07-18T11:41:33.506Z
 thumbnail: /img/uploads/de-par-en-par-4.jpg
 ---

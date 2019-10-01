@@ -2,7 +2,7 @@
 title: "Oct 2018 // Festival KIJOU? #1 : Informations pratiques"
 description: "Droit d'entrée pour la semaine. Transports et Plan pour venir au Cerisier..."
 slug: "infos-pratiques"
-image: pic06.jpg
+image: "img/pic06.jpg"
 keywords: ""
 categories:
     - ""
