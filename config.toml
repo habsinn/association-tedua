@@ -56,7 +56,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Création de spectacles"
-      url = "accueil/les-creations-tedua"
+      url = "accueil/l-ecole-tedua"
 
     [[params.navigation.links]]
       name = "L'Ecole TeDua"
@@ -96,10 +96,10 @@ disqusShortname = ""
       url = "accueil/les-creations-tedua"
 
     [[params.tiles.showcase]]
-      title = "Travail du jeu : théâtre et clown"
+      title = "La discipline du jeu (formations théâtre, clown)"
       subtitle = "Tout au long de l'année, l'association TeDua propose des ateliers hebdomadaires,  des stages, des préparations aux concours d’entrée aux grandes écoles. On y pratique la discipline du jeu enseignée par Jonathan Dupui. Novice, initié, amateur ou pro: bienvenue !"
       image = "pic03.jpg"
-      url = "accueil/l-ecole-tedua"
+      url = "accueil/la-discipline-du-jeu-formations-theatre-clown"
 
     [[params.tiles.showcase]]
       title = "KIJOU? : résidence & festival"

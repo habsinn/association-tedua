@@ -26,27 +26,33 @@ Avec toute la certitude, les doutes, l'engouement, les questionnements, l'envie,
 <br>
 -- *"Je n'ai plus l'âge de passer les concours d'entrée dans les grandes écoles de théâtre, et mes premières années de vie en tant qu'artiste-comédien ont laissé plus de place aux galères financières et logistiques, qu'au développement de ma pratique du jeu et de nouveaux spectacles à offrir au public. Quelle serait la bonne formule pour trouver un meilleur équilibre entre pratique du jeu,les créations, et gagner ma vie?"*   
 <br>
-Naturellement, Anne Lucie et Habib (voir le paragraphe sur L'équipe pédagogique, en bas de ce lien) ont organisé une série de rencontres longues (plusieurs heures par élève) pour en savoir plus sur cet intérêt individuel qu'ils ont exprimé, et une forme s'est  dessinée petit à petit avec:  
+Anne Lucie et Habib (voir le paragraphe sur l'équipe pédagogique, en bas de ce lien) ont alors organisé une série de rencontres longues (plusieurs heures par élève) pour en savoir plus sur cet intérêt individuel qu'ils ont exprimé, et une forme s'est  dessinée petit à petit avec:  
 - une **approche et un programme pédagogique** de la discipline du jeu dirigés par Jonathan;   
 - un **accompagnement personnalisé** ("vie scolaire", "conseil d'orientation") mené par Anne Lucie et Habib pour "apprendre à s'organiser " et "gagner sa vie" en parallèle de la formation;    
-- une **approche et un programme pédagogique** pour découvrir une approche paisible de l'économie (pair-a-pair) et du monde du travail dirigés par Habib;   
+- une **approche et un programme pédagogique** pour découvrir une approche paisible de l'économie (pair-à-pair) et du monde du travail dirigés par Habib;   
 - **3 intervenants extérieurs professionnels de Bordeaux, Paris et Liège**;   
-- **4 soutiens et référents "regards extérieurs" nationaux**   
-- des besoins matériels et financiers auxquels répondre   
+- **4 soutiens et référents "regards extérieurs" nationaux**;   
+- des besoins matériels et financiers auxquels répondre.   
 
-Nous recherchons des partenaires institutionnels, et financiers
----
+Nous recherchons des partenaires institutionnels, et financiers pour co-construire ce projet de Tiers-Lieu (accueil, ecole, restauration, ateliers, habitat collectif).
+<br>
+[Le dossier du projet "Ecole Tedua" est librement consultable sur ce lien](https://archive.org/details/dossierprojetecoledetheatrealeredesinternetsassociationtedua20190605).
+<br>
+<br>
+<img src="/img/couverture_dossier_ecole.jpg" alt="stages theatre" style="width:330px;height:500px;" align="center"> 
 
-### 2. Tour d'horizon des formations de la Saison 2018-2019
+------------------
+### 2. Formations à la discipline du jeu (saison 2019-2020)
 
-Tout au long de cette saison 2018-2019, l'association TeDua propose des stages et des ateliers pour pratiquer la **discipline du jeu** enseignée par Jonathan Dupui.   
+Tout au long de cette saison 2019-2020, l'association TeDua propose des stages et des ateliers pour pratiquer la **discipline du jeu** enseignée par Jonathan Dupui.   
 Du théâtre au clown,    
 **tout-novice**, **amateur** ou **professionnel**:  
 VIENS et JOUE!
 
 ------------------
-
- <img src="/img/ateliersclown.png" alt="stages theatre" style="width:200px;height:500px;" align="left" hspace=”100”> 
+### 3. Archive: saison 2018-2019
+ 
+<img src="/img/ateliersclown.png" alt="stages theatre" style="width:200px;height:500px;" align="left" hspace=”100”> 
 **LES ATELIERS BI-MENSUELS DE JEU DE CLOWN**   
 LE MOT DU PROF:   
 "Découvrir le clown,    
@@ -67,7 +73,7 @@ ou
 <br>
 
 
- <img src="/img/stages.png" alt="ateliers clown" style="width:200px;height:500px;" align="left"> 
+ <img src="/img/stagestheatre.png" alt="ateliers clown" style="width:200px;height:500px;" align="left"> 
 **LES WEEK-ENDS MENSUELS DE STAGE DE THEATRE**   
 LE MOT DU PROF:   
 "S’immerger dans le jeu   
