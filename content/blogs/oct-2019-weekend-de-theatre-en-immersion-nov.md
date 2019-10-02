@@ -4,7 +4,7 @@ date: 2019-10-01T18:30:33+02:00
 draft: false
 ---
 
-## --Premier stage de la saison :
+## --Premier stage de la saison
 
 TEDUA vous invite à un moment d'immersion pour expérimenter le lâcher-prise et l'expression libre à travers des exercices de jeu mobilisant 
 le corps, <br>
@@ -28,7 +28,7 @@ LA PRATIQUE DE LA DISCIPLINE DU JEU INVITE À RECONNAÎTRE CE CHAMP DE LA LIBRE 
 AINSI QUE LA NATURE PROFONDE DU PUBLIC : <br>
 CELUI POUR QUI TOUT CELA EXISTE."<br>
 
-## ---- Informations pratiques :
+## ---- Informations pratiques
 - **Où** : La Grange / Association Agriculturelle, 3 Les Granges, 33190 Lamothe-Landerron<br>
 - **Quand** : du vendredi soir (à partir de 20H) 1 novembre au dimanche 3 novembre 2019 18h <br>
 - **Comment** : en Covoiturage, en train, en voiture <br>
@@ -37,7 +37,7 @@ CELUI POUR QUI TOUT CELA EXISTE."<br>
 
 *Dans l'optique de prévoir un moment pour s'installer et échanger, nous vous invitons à arriver dès le vendredi soir. Les repas et l'hébergement sont compris dans le tarif. Il vous est demandé d'apporter votre sac de couchage et votre serviette de toilette. Des covoiturages seront mis en place au départ de Bordeaux. La gare SNCF de La Réole est à quelques minutes du lieu, nous viendrons vous y chercher. Pour tout régime alimentaire spécifique, n'hésitez pas à prévenir Anne-Lucie Dumay lors de votre inscription.*
 
-## --------Liens :
+## --------Liens
 - Événement sur le site de la grange : http://www.lagrangeauxgranges.com/event/stage-de-theatre-avec-la-compagnie-tedua/ <br>
 - Lien du site de la Grange : http://www.lagrangeauxgranges.com <br>
 - Lien de l'événement Facebook : https://www.facebook.com/events/522452218581998/ <br>
