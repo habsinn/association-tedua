@@ -56,11 +56,11 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Création de spectacles"
-      url = "accueil/l-ecole-tedua"
+      url = "accueil/les-creations-tedua"
 
     [[params.navigation.links]]
-      name = "L'Ecole TeDua"
-      url = "accueil/les-formations-tedua"
+      name = "Discipline du jeu : formations"
+      url = "accueil/la-discipline-du-jeu-formations-theatre-clown"
 
     [[params.navigation.links]]
       name = "KIJOU? : résidence & festival"
@@ -92,13 +92,13 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Création de spectacles"
       subtitle = "L'association TeDua produit des créations professionnelles de théâtre et de clown, prêtes à être jouées et diffusées, pour tous les publics... [cliquer ici-->]"
-      image = "creation-spectacles.jpg"
+      image = "collage_aurillac_2019.jpg"
       url = "accueil/les-creations-tedua"
 
     [[params.tiles.showcase]]
-      title = "La discipline du jeu (formations théâtre, clown)"
+      title = "La discipline du jeu : formations"
       subtitle = "Tout au long de l'année, l'association TeDua propose des ateliers hebdomadaires,  des stages, des préparations aux concours d’entrée aux grandes écoles. On y pratique la discipline du jeu enseignée par Jonathan Dupui. Novice, initié, amateur ou pro: bienvenue !"
-      image = "pic03.jpg"
+      image = "eleves1.png"
       url = "accueil/la-discipline-du-jeu-formations-theatre-clown"
 
     [[params.tiles.showcase]]
@@ -114,9 +114,9 @@ disqusShortname = ""
       url = "accueil/informations-pratiques"
 
   [[params.tiles.showcase]]
-      title = "L'Ecole Tedua"
+      title = "Projet : l'école Tedua"
       subtitle = "Tout au long de l'année, l'association TeDua propose des stages et des ateliers pour pratiquer la discipline du jeu enseignée par Jonathan Dupui. Du théâtre au clown, novice, amateur ou pro: bienvenue... [cliquer ici-->]"
-      image = "pic03.jpg"
+      image = "couverture_dossier_ecole.jpg"
       url = "accueil/l-ecole-tedua"
  
     # You can make more showcases by copy and pasting the code above

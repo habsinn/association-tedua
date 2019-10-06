@@ -4,16 +4,16 @@ date: 2019-10-01T18:30:33+02:00
 draft: false
 ---
 
-## --Premier stage de la saison
+## 1. Premier stage de la saison
 
-TEDUA vous invite à un moment d'immersion pour expérimenter le lâcher-prise et l'expression libre à travers des exercices de jeu mobilisant 
+TEDUA vous invite à un moment d'immersion pour **explorer le lâcher-prise et l'expression libre**, à travers des exercices de jeu mobilisant<br> 
 le corps, <br>
 la voix, <br>
 les émotions, <br>
 la respiration <br>
 et le silence.<br>
 <br>
-L'enseignement sera  mené par **[Jonathan Dupui](https://leclownetlafee.fr/pages/l-equipe/)**, qui vous invite par ces mots:
+L'enseignement sera  mené par **[Jonathan Dupui](https://association-tedua.fr/blogs/jonathan-dupui-enseignant-discipline-du-jeu-theatre-clown/)**, qui vous invite par ces mots:
 
 "QUI QUE NOUS SOYONS, <br>
 NOUS POUVONS ÊTRE CERTAINS QUE L'ART DU COMÉDIEN EST LA RETRANSCRIPTION DU MOUVEMENT DU VIVANT,<br> 
@@ -28,7 +28,8 @@ LA PRATIQUE DE LA DISCIPLINE DU JEU INVITE À RECONNAÎTRE CE CHAMP DE LA LIBRE 
 AINSI QUE LA NATURE PROFONDE DU PUBLIC : <br>
 CELUI POUR QUI TOUT CELA EXISTE."<br>
 
-## ---- Informations pratiques
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XrEOK27KugE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## 2. Informations pratiques
 - **Où** : La Grange / Association Agriculturelle, 3 Les Granges, 33190 Lamothe-Landerron<br>
 - **Quand** : du vendredi soir (à partir de 20H) 1 novembre au dimanche 3 novembre 2019 18h <br>
 - **Comment** : en Covoiturage, en train, en voiture <br>
@@ -37,7 +38,7 @@ CELUI POUR QUI TOUT CELA EXISTE."<br>
 
 *Dans l'optique de prévoir un moment pour s'installer et échanger, nous vous invitons à arriver dès le vendredi soir. Les repas et l'hébergement sont compris dans le tarif. Il vous est demandé d'apporter votre sac de couchage et votre serviette de toilette. Des covoiturages seront mis en place au départ de Bordeaux. La gare SNCF de La Réole est à quelques minutes du lieu, nous viendrons vous y chercher. Pour tout régime alimentaire spécifique, n'hésitez pas à prévenir Anne-Lucie Dumay lors de votre inscription.*
 
-## --------Liens
+## 3. Liens
 - Événement sur le site de la grange : http://www.lagrangeauxgranges.com/event/stage-de-theatre-avec-la-compagnie-tedua/ <br>
 - Lien du site de la Grange : http://www.lagrangeauxgranges.com <br>
 - Lien de l'événement Facebook : https://www.facebook.com/events/522452218581998/ <br>

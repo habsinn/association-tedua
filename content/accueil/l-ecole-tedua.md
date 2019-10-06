@@ -1,5 +1,5 @@
 ---
-title: "L'Ecole Tedua"
+title: "Projet : école Tedua"
 description: "Tout au long de l'année, l'association TeDua propose des stages, ateliers, formations au Jeu. En cette fin de saison 2018-2019, TeDua se structure en Ecole."
 slug: "l-ecole-tedua"
 image:
