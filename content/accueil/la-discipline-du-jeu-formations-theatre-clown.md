@@ -1,5 +1,5 @@
 ---
-title: "L'Ecole Tedua"
+title: "La discipline du jeu :  formations"
 description: "Tout au long de l'année, l'association TeDua propose des stages, ateliers, formations au Jeu. En cette fin de saison 2018-2019, TeDua se structure en Ecole."
 slug: "la-discipline-du-jeu-formations-theatre-clown"
 image:
@@ -59,7 +59,7 @@ Trois fois dans l'année, du vendredi soir au dimanche soir, un stage immersif d
  <br>
 Ouvert à tous les niveaux.<br>
 <br>
-Découvrez [un texte de Jonathan (l'enseignant) et les informations pratiques sur ce lien](http://localhost:1313/blogs/oct-2019-weekend-de-theatre-en-immersion-nov/).
+Découvrez [un texte de Jonathan (l'enseignant) et les informations pratiques sur ce lien](https://association-tedua.fr/blogs/oct-2019-weekend-de-theatre-en-immersion-nov/).
 <br>
 <br>
  <img src="/img/stages20192020.jpg" alt="ateliers theatre" style="width:500px;height:300px;" align="left" hspace=”100”>
