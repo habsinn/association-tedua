@@ -1,5 +1,6 @@
 ---
 title: "Oct 2019 // INSCRIPTIONS | Stage immersif de Théâtre | 2-3 novembre"
+image: "oct-2019-weekend-de-theatre-en-immersion-nov.jpg"
 date: 2019-10-01T18:30:33+02:00
 draft: false
 ---
@@ -28,7 +29,7 @@ LA PRATIQUE DE LA DISCIPLINE DU JEU INVITE À RECONNAÎTRE CE CHAMP DE LA LIBRE 
 AINSI QUE LA NATURE PROFONDE DU PUBLIC : <br>
 CELUI POUR QUI TOUT CELA EXISTE."<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XrEOK27KugE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="200" src="https://www.youtube.com/embed/XrEOK27KugE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## 2. Informations pratiques
 - **Où** : La Grange / Association Agriculturelle, 3 Les Granges, 33190 Lamothe-Landerron<br>
 - **Quand** : du vendredi soir (à partir de 20H) 1 novembre au dimanche 3 novembre 2019 18h <br>

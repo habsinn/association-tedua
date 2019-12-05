@@ -133,7 +133,7 @@ disqusShortname = ""
     enable = true
     title = "Journal de bord"
     subtitle = " "
-    buttonText = "Lire des textes écrits par des membres de TeDua"
+    buttonText = "Actualités et textes écrits par des acteurs de TeDua"
     url = "blogs"
 
 

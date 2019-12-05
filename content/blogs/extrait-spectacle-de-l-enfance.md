@@ -1,5 +1,6 @@
 ---
 title: "Dec 2018 // Extrait du Spectacle 'De l'enfance'"
+image: "extrait-spectacle-de-l-enfance.png"
 date: 2018-10-12T13:01:33+02:00
 draft: false
 ---

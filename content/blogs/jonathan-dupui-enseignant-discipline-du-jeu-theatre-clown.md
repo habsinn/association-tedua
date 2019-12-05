@@ -1,5 +1,6 @@
 ---
-title: "Bio de l'enseignant de Tedua : Jonathan Dupui"
+title: "Bio de Jonathan Dupui, enseignant pour Tedua"
+image: "jonathan-dupui-enseignant-discipline-du-jeu-theatre-clown.jpg"
 date: 2019-10-01T18:30:33+02:00
 draft: false
 ---

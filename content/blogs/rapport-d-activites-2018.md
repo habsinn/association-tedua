@@ -1,5 +1,6 @@
 ---
 title: "Avr 2019 // Rapport d'activité 2018"
+image: "rapport-d-activites-2018.jpg"
 date: 2019-04-29T18:30:33+02:00
 draft: false
 ---

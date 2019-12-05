@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Juin 2019 // CRÉATION  | "Les Nouveaux Gouverneurs" (clown) | texte support
+image: "création-les-nouveaux-gouverneurs-texte-support.png"
 date: 2019-06-17T22:00:00.000Z
 thumbnail: /img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg
 ---

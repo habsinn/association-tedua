@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Juin 2019 // Portes ouvertes et Spectacle de l'atelier clown
+image: "juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur.jpg"
 date: 2019-06-19T08:20:57.917Z
 thumbnail: /img/uploads/banniere-spectacle-clown.jpg
 ---

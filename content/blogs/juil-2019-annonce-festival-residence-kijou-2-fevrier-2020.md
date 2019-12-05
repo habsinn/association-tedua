@@ -1,16 +1,13 @@
 ---
 layout: blog
-title: Juil 2019 // ANNONCE | Festival-résidence KIJOU? 2 | Fevrier 2020
+title: "Juil 2019 // ANNONCE | Festival-résidence KIJOU? #2 | Février 2020"
+image: "juil-2019-annonce-festival-residence-kijou-2-fevrier-2020.jpg"
 date: 2019-07-18T11:41:33.506Z
-thumbnail: /img/uploads/de-par-en-par-4.jpg
 ---
 En octobre 2018, pendant 6 jours au [Théâtre du Cerisier](http://www.lecerisier.org/index.php?option=com_content&view=article&id=302&Itemid=107), nous avons organisé la première **Festival-résidence KIJOU? #1** de Tedua avec au centre de cet espace-temps, la **question de l'accueil et de la place du public**, de l'autre en somme, comme déclinaison des deux questions fil rouge de l'enseignement proposé par Jonathan Dupui : "_Où se trouve le jeu?_" et "_Qui joue?_" .
 
-[Un résumé complet de KIJOU? #1 est visible en cliquant sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
+[Un résumé complet de KIJOU? #1 est disponible sur ce lien](https://www.association-tedua.fr/accueil/kijou/).
 
-<a href="https://www.association-tedua.fr/accueil/kijou/" rel="KIJOU? #1"><img src="/img/uploads/kijou1-screenshot.png" alt="" width="500" height="350" align="middle" /></a>
-
-## **<br>**
 
 ## KIJOU? #2
 
@@ -18,19 +15,29 @@ Pour la **deuxième édition (février 2020)**, si le souci de _l'attention à l
 
 3 espaces se dessinent :
 
-\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. Le jeu est [librement téléchargeable et imprimable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html)(BLOOK) et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html)(BLOOK).
-<a href="https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html" rel="De par en par - le jeu"><img src="/img/uploads/de-par-en-par-jeu.jpeg" alt="" width="600" height="400" align="middle" /></a>
-
-
-\-- **SPECTACLES** : 4 représentations de clown -["Les Nouveaux Gouverneurs: qui est le patron ici?!"](https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) écrit et mise en scène par Jonathan Dupui- et de théâtre -["Mégaphonie" de Louis Calaferte](http://www.bordonor.org/ce-mois-au-theatre-la-boite-a-jouer/)- seront jouées pour créer des rencontres vivantes avec le grand public.
-<a href="https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/" rel="Les nouveaux gouverneurs"><img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="" width="600" height="350" align="middle" /></a>
-
-\-- **WEB RADIO ÉPHÉMÈRE, locale et transnationale** : inspirée du projet de radio locale créatrice de conversations ["Mint Festival*" co-organisé par David Bovill en 2017](http://david.feast.fm/view/community-festival/view/internet-enabled-local-radio/view/radio-garden) dans le quartier de Finsbury Park. _\*"Festival de la Menthe"_
-<a href="https://radio.garden/listen/lacdo/tAON7gFf"><img src="/img/uploads/radio-garden-screenshot.png" alt="" width="600" height="300" align="middle" /></a>
-![]()
-
+\-- **CRÉATION - JEU DE PLATEAU (**["print'N'Play"](http://savoirscommuns.comptoir.net/ludobox)**)**: d'une nouvelle version en français du jeu "De par en par" créé en espagnol par 
+Habib Belaribi, Jonathan Dupui et Anne Lucie Dumay en août-septembre 2018 avec la coopérative madrilène Las Indias Electrónicas et l'agence Two Much pour la banque d’État mexicaine Nacional Financiera. 
+Le jeu est [librement téléchargeable et imprimable à ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html), 
+et on peut lire les textes de fonds sur la question de l’ "économie collaborative" [sur ce lien](https://www.nafin.com/portalnf/content/economia-colaborativa/espiritu_tiempos.html)(BLOOK) 
+et encore [sur celui-ci](https://www.nafin.com/portalnf/content/economia-colaborativa/pasar_accion.html)(BLOOK).
+<br>
+<br>
+<a href="https://www.nafin.com/portalnf/content/economia-colaborativa/para_par_juego.html" rel="De par en par - le jeu"><img src="/img/uploads/de-par-en-par-jeu.jpeg" alt="" width="600" height="400" align="middle"></a>
+<br>
 <br>
 
+\-- **SPECTACLES** : représentations de clown -["Les Nouveaux Gouverneurs: qui est le patron ici?!"](https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) écrit et mise en scène par Jonathan Dupui- et de théâtre -["Mégaphonie" de Louis Calaferte](http://www.bordonor.org/ce-mois-au-theatre-la-boite-a-jouer/)- seront jouées pour créer des rencontres vivantes avec le grand public.
+<br>
+<br>
+<a href="https://www.association-tedua.fr/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/" rel="Les nouveaux gouverneurs"><img src="/img/uploads/62472626_10158046744783840_4659019482902036480_n.jpg" alt="" width="600" height="350" align="middle"></a>
+<br>
+<br>
+\-- **WEB RADIO ÉPHÉMÈRE, locale et transnationale** : inspirée du projet de radio locale facilitatrice de conversations ["Mint Festival*" co-organisé par David Bovill en 2017](http://david.feast.fm/view/community-festival/view/internet-enabled-local-radio/view/radio-garden) dans le quartier de Finsbury Park. _\*"Festival de la Menthe"_
+<br>
+<br>
+<a href="https://radio.garden/listen/lacdo/tAON7gFf"><img src="/img/uploads/radio-garden-screenshot.png" alt="" width="600" height="300" align="middle"></a>
+<br>
+<br>
 ## Participer au projet
 
 [Notre réponse complète ](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn)[à](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn)[ l'appel à projet de la Ville de Bordeaux "Prix de l'Initiative" est disponible à ce lien](https://cloud.cestlebouquet.fr/index.php/s/2wX5y9aQmES5mFn), avec la liste de collectifs avec qui nous avons déjà échangé sur ce projet, et les lieux que nous aimerions impliquer.

@@ -1,5 +1,6 @@
 ---
 title: "Mai 2019 // Narration du spectacle 'Gaspard ou la nuit de l'ombre'"
+image: "narration-du-spectacle-gaspard-ou-la-nuit-de-l-ombre.jpg"
 date: 2019-05-15T18:30:33+02:00
 draft: false
 ---
