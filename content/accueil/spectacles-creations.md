@@ -1,35 +1,49 @@
 ---
-title: "LES CRÉATIONS TEDUA"
+title: "LES SPECTACLES"
 description: "L'association TeDua est aussi une plateforme de créations professionnelles..."
-slug: "les-creations-tedua"
 image:
-keywords: ""
-categories:
-    - ""
-    - ""
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
 
-En plus d'une école de pratique du jeu de theatre et de clown, l'association TeDua est une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les publics.
+En plus d'une école de pratique de la discipline du jeu de théâtre et de clown, l'association TeDua est une plateforme de créations professionnelles, prêtes à être jouées et diffusées, pour tous les publics.
 
 
 
 ---
 
-## CRÉATIONS DU MOMENT
+## SPECTACLES DE LA SAISON 2019-2020 :
+### « Le clown et la fée » 
+**Toutes les infos sur le Site web du spectacle** : [www.leclownetlafee.fr](https://leclownetlafee.fr)   
+**Dates de représentation**: 12,15,22 Nov/12 Jan/7-8 Fév/20-21 Mar/19-22 Aoû  
+**Public**: enfants (3-12 ans), familles   
+**Nombre de représentations**: 23ème (au 1er janvier 2020)  
+**Genre**: Théâtre, Intime, Musical
+**Comédiens|Metteur en scène**: Thibaud Ghidone, Julie Hercberg | Jonathan Dupui.   
 
-**« De l’enfance »**   (*ados et adultes, 6 représentations*)  
-L’auteur a joué avec la parole du nouveau né, annonçant d’une clarté éblouissante la profonde vérité d’être d’office observateur du monde. Car la présence n’a besoin de personne, même pas soi-même, pour être.  
-&nbsp;&nbsp;&nbsp;&nbsp;[-->Extraits vidéo de la première sortie de résidence au Cerisier ici<--](http://localhost:1313/accueil/kijou/)   
-&nbsp;&nbsp;&nbsp;&nbsp;*Acteurs: Anne Lucie Dumay, Jonathan Dupui.*
+<iframe src="https://player.vimeo.com/video/378806590" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<p style="text-align:center"><i>"En errance, un clown triste apparait : il a perdu ses couleurs...
+<br>Une fois sur scène, il se retrouve devant son public.<br>   
+Il s’explique, il n’a plus et ne se souvient même plus des couleurs! «Messieurs-dames les enfants et autres Papamamans » vont l’aider à appeler Madame la fée :<br>
+« Car si nous sommes, nous pouvons. »<br>
+Cette dernière ne lui donne pas le choix : pour qu’il puisse parcourir ses rêves et retrouver ses couleurs, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et réapprendre le rythme, l’équilibre, l’écoute et le partage.<br>
+Ainsi, couleur après couleur il récupérera sa joie de vivre et continuera sa route…"</i></p> 
 
 
-**« Le clown et la fée »** (*enfants 3-7 ans et parents, 16 représentations*)  
-Le clown en errance a perdu ses couleurs jusqu’à leur souvenir.
-Par l’aide de la fée et des enfants, le clown ira rencontrer ses rêves et découvrira la voix pour les retrouver.    
-&nbsp;&nbsp;&nbsp;&nbsp;[-->Le site web du spectacle est visible ici<--](https://leclownetlafee.fr)   
-&nbsp;&nbsp;&nbsp;&nbsp;*Acteurs: Thibaud Ghidone, Julie Hercberg.*   
+
+### « De l’enfance »
+**Dates de représentation**: 7 Déc
+**Public**: ados, adultes   
+**Nombre de représentations**: 6 (au 1er janvier 2020)  
+**Genre**: Textes, Musique improvisée   
+**Comédiens|Metteur en scène**: Anne Lucie Dumay | Jonathan Dupui.
+
+<p style="text-align:center"><i>L’auteur a joué avec la parole du nouveau né, annonçant d’une clarté éblouissante la profonde vérité d’être d’office observateur du monde. Car la présence n’a besoin de personne, même pas soi-même, pour être.</i></p> 
+
+
+
+### Le clown Zoro Zoraï (titre à venir...)
 
 ---
 
