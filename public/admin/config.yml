@@ -1,16 +1,17 @@
 backend:
   name: git-gateway
+  branch: master #branch to update (optional, defaults to master)
 
 display_url: https://association-tedua.fr
 
 publish_mode: editorial_workflow
 
-media_folder: "static/img/uploads" # Media files will be stored in the repo under static/img/uploads
-public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /img/uploads
+media_folder: "static/img" # Media files will be stored in the repo under static/img/uploads
+public_folder: "/img" # The src attribute for uploaded media will begin with /img/uploads
 
 collections:
-  - name: "post" # Used in routes, e.g., /admin/collections/blog
-    label: "Post" # Used in the UI
+  - name: "journal-de-bord" # Used in routes, e.g., /admin/collections/blog
+    label: "Articles du Journal de Bord" # Used in the UI
     folder: "content/blogs" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

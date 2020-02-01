@@ -18,7 +18,7 @@ En plus d'une école de pratique de la discipline du jeu de théâtre et de clow
 - **Site web** : [www.leclownetlafee.fr](https://leclownetlafee.fr)   
 - **Dates de représentation**: 12,15,22 Nov / 12 Jan / 7-8 Fév / 20-21 Mar/ 19-22 Aoû  
 - **Public**: enfants (3-12 ans), familles   
-- **Nombre de représentations**: 23 (au 1er janvier 2020)  
+- **Nombre de représentations**: 23  
 - **Genre**: Théâtre, Intime, Musical  
 - **Comédiens | Metteur en scène**: Thibaud Ghidone, Julie Hercberg | Jonathan Dupui.   
 
@@ -35,10 +35,10 @@ Ainsi, couleur après couleur il récupérera sa joie de vivre et continuera sa 
 
 ### « De l’enfance »
 - **Dates de représentation**: 7 Déc    
-- **Public**: à partir de 10 ans, ados,adultes   
+- **Public**: à partir de 10 ans, ados, adultes   
 - **Nombre de représentations**: 6 (au 1er janvier 2020)  
 - **Genre**: Textes, Musique improvisée   
-- **Comédiens|Metteur en scène**: Anne Lucie Dumay | Jonathan Dupui.  
+- **Comédiens| Musiciens | Auteur, Metteur en scène**: Anne Lucie Dumay | Simon Crespeau, Mélisa Hié, Amandine Steiblin, Habib Belaribi | Jonathan Dupui.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2ij7ht29Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -50,7 +50,7 @@ Ainsi, couleur après couleur il récupérera sa joie de vivre et continuera sa 
 
 ---
 
-## CRÉATIONS ENDORMIES
+## CRÉATIONS ENDORMIES:
 
 ### « Les trois petits clochons »
 - **Public**: ados, adultes  
@@ -70,13 +70,13 @@ Ainsi, couleur après couleur il récupérera sa joie de vivre et continuera sa 
 &nbsp;&nbsp;&nbsp;&nbsp;  
 
 ### « Gaspard ou la nuit de l’ombre » 
-- **Public**:*ados et adultes, 1 représentation*)
+- **Public**:ados et adultes
 - **Nombre de représentations**: 1  
 - **Acteurs | Écriture,Mise en scène**: Jonathan Dupui   
 <br>
 *Oeuvre considérée comme sa plus importante par l’auteur, « Gaspard ou la nuit de l’ombre » parle de la dernière nuit d’un clown clochard, posé sur le toit du monde. Devra livrer les luttes de sa condition sociale et de toutes les férocités et craintes cachées de l’humain pour le profit d’un égo, qui ne peut que s’écrouler pour laisser place à la liberté.*   
 &nbsp;&nbsp;&nbsp;&nbsp;[--> Lire la narration complète de l'oeuvre <--](http://localhost:1313/blogs/narration-du-spectacle-gaspard-ou-la-nuit-de-l-ombre/)   
-&nbsp;&nbsp;&nbsp;&nbsp;*Acteurs: Jonathan Dupui.*  
+&nbsp;&nbsp;&nbsp;&nbsp;  
 
 ### « J’ai vu d’où venait le vent et j’ai souri » 
 - **Public**: ados, adultes  
@@ -94,7 +94,7 @@ Description en cours de rédaction.
    
 ---
    
-### CO-CRÉATIONS, C0-ÉCRITURE
+### CO-CRÉATIONS, C0-ÉCRITURE: 
 **« Private Joke»**   
 Description en cours de rédaction.  
 

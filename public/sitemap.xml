@@ -4,6 +4,16 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-12-04T18:30:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/soi/</loc>
+    <lastmod>2019-12-04T18:30:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blogs/jonathan-dupui-enseignant-discipline-du-jeu-theatre-clown/</loc>
     <lastmod>2019-10-01T18:30:33+02:00</lastmod>
   </url>
   
@@ -58,7 +68,7 @@
   </url>
   
   <url>
-    <loc>/blogs/infos-pratiques/</loc>
+    <loc>/blogs/festival-kijou-informations-pratiques/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   
@@ -78,22 +88,22 @@
   </url>
   
   <url>
-    <loc>/accueil/l-ecole-tedua/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/accueil/la-discipline-du-jeu-formations-theatre-clown/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/accueil/les-creations-tedua/</loc>
+    <loc>/accueil/spectacles-creations/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blogs/chemins-de-la-semaine-inscriptions-et-infos-pratiques/</loc>
+    <loc>/blogs/festival-kijou-chemins-de-la-semaine/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accueil/l-ecole-tedua/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
