@@ -13,6 +13,20 @@ En plus d'une école de pratique de la discipline du jeu de théâtre et de clow
 ---
 
 ## SPECTACLES DE LA SAISON 2019-2020 :
+
+### « Les Nouveaux Gouverneurs » 
+- **Réservations**: sur [la billetterie en ligne HelloAsso](https://www.helloasso.com/associations/tedua/evenements/les-nouveaux-gouverneurs-2)
+- **Pages web** : [Blogpost - dernière représentation](http://localhost:1313/blogs/juin-2019-week-end-portes-ouvertes-et-representations-du-spectacle-de-latelier-clown-amateur/) / [Évènement facebook - Février](https://www.facebook.com/events/506895513559426/)    
+- **Dates de représentation**: 21-22 Fév / 14 Juin  
+- **Public**: adultes, ados (à partir de 12 ans)   
+- **Nombre de représentations**: 2  
+- **Genre**: Théâtre-Clown  
+- **Comédiens | Metteur en scène**: Alexandre Galley, Alexandre Giraud, Anne Lucie Dumay, Bastien Lasserre, Cynthia Perrein, Habib Belaribi, Ronan Lestrade, Tristan Leyri | Jonathan Dupui.   
+
+<iframe src="https://player.vimeo.com/video/388689659" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<p><i>"À chaque représentation, huit clowns tentent de répondre à la question "que tout le monde se pose : 'Qui est le patron ici ?!'" .</i></p> 
+
 ### « Le Clown et la Fée » 
 - **Réservations**: sur [la billetterie en ligne HelloAsso](https://www.helloasso.com/associations/tedua/evenements/le-clown-et-la-fee-fevrier-2020)
 - **Site web** : [www.leclownetlafee.fr](https://leclownetlafee.fr)   
@@ -20,7 +34,7 @@ En plus d'une école de pratique de la discipline du jeu de théâtre et de clow
 - **Public**: enfants (3-12 ans), familles   
 - **Nombre de représentations**: 23  
 - **Genre**: Théâtre, Intime, Musical  
-- **Comédiens | Metteur en scène**: Thibaud Ghidone, Julie Hercberg | Jonathan Dupui.   
+- **Comédiens | Metteur en scène**: Alexandre Giraud (anciennement Thibaud Ghidone), Julie Hercberg | Jonathan Dupui.   
 
 <iframe src="https://player.vimeo.com/video/378806590" width="640" height="360" align="middle" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -30,7 +44,6 @@ Il s’explique, il n’a plus et ne se souvient même plus des couleurs! «Mess
 « Car si nous sommes, nous pouvons. »<br>
 Cette dernière ne lui donne pas le choix : pour qu’il puisse parcourir ses rêves et retrouver ses couleurs, il devra s’endormir et affronter ses peurs. Des voyages initiatiques au travers desquels, il devra apprendre et réapprendre le rythme, l’équilibre, l’écoute et le partage.<br>
 Ainsi, couleur après couleur il récupérera sa joie de vivre et continuera sa route…"</i></p> 
-
 
 
 ### « De l’enfance »
