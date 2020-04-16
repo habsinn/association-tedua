@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Avril 2020 // Premiers travaux du confinement
-image: ".jpg"
+image: "2020.04.Confinement-caravane-nuit.jpg"
 date: 2020-04-14T08:20:57.917Z
 thumbnail: /img/uploads/banniere-spectacle-clown.jpg
 ---
@@ -39,14 +39,14 @@ Les fleurs ont pris la place des mauvaises herbes. Les semis préparés par Cynt
 <img src="/img/uploads/Confinement-projets-en-cours.png" alt="Le potager" style="float:center;width:320px;height:220px;"> 
 
 
-<a href="https://tree.taiga.io/project/habsinn-tedua/us/8?kanban-status=2169476">  POUR CONSULTER LE DÉTAIL DES PROJETS EN COURS, CLIQUE ICI --->> </a>
+<a href="https://tree.taiga.io/project/habsinn-tedua/kanban">  POUR CONSULTER LE DÉTAIL DES PROJETS EN COURS, CLIQUE ICI --->> </a>
 <br>
 
 #### "Les intérêts personnels...
 À l’ordre du jour, un point sur nos intérêts personnels.  
 À tour de rôle nous exposons aux autres nos désirs, nos envies, nos rêves. 
 
-> « Il ne peut que y avoir l’autre pour faire vivre l’intérêt personnel. » -jo
+> « Il ne peut y avoir que l’autre pour faire vivre mon intérêt personnel. » -jo
 
 CYNTHIA est heureuse de pouvoir exprimer sa **créativité** avec Tedua et serait d’accord pour être prestataire pour d’autres structures : l’occasion de *« gagner des thunes »*. Pour cela, nous sommes d’accord que son travail doit gagner en **visibilité** et son compte instagram n’est pas suffisant.
 Elle tient à garder des *« temps de chill »* et est reconnaissante de cette vie collective. Elle souhaite continuer à **jouer sur scène**.
@@ -60,7 +60,7 @@ LUCIE nous propose de nous aider au niveau **visuel**, sans faire du graphisme. 
 Pour la ****communication de Tedua, on propose de ne pas travailler à partir d’une charte graphique et plutôt d’adapter chaque support visuel aux personnes à qui on parle et de qui on parle. 
 Elle propose qu’on organise des **temps de travail ensemble**, d’autant que nous avons acheté une grande table chez Rizibizi où on tient à 18 personnes ! 
 
-> « La gratitude est saine mais elle indique la nécessité que l’attention de l’autre soit là. Maintenant, c’est mon attention que j’offre. Observez comme ça fait du bien d’avoir l’attention des autres vers soi. Alors maintenant, offrez-la aux autres. » -jo
+> « La gratitude est saine mais elle indique la nécessité que l’attention de l’autre soit là. Et si c’est mon attention que j’offre ? Observez comme ça fait du bien d’avoir l’attention des autres vers soi. Alors maintenant, offrez-la aux autres. » -jo
 
 <img src="/img/uploads/2020.04.Confinement-Bastien-potager.jpg" alt="Le potager" style="float:right;width:320px;height:220px;"> 
 
@@ -85,7 +85,7 @@ Et voici les intérêts personnels et économiques des clowns Zoro et Serg'Engar
 <br> 
 
 #### "Quelques points clés abordés...
- <a href="https://tree.taiga.io/project/habsinn-tedua/us/8?kanban-status=2169476">  (POUR SUIVRE LES PROJETS EN COURS, CLIQUE ICI) </a>
+ <a href="https://tree.taiga.io/project/habsinn-tedua/kanban">  (POUR SUIVRE LES PROJETS EN COURS, CLIQUE ICI) </a>
 
 1) **De nouveaux 'dirigeants' pour la collégiale de Tedua** :   
 Jonathan reste prestataire de Tedua concernant la discipline du jeu, et pas décisionnaire. On propose de changer le CA (membres du collège) et de **proposer cette place aux personnes extérieures** aux cours de théâtre, qui ont été présents et ont exprimé des mots, des gestes tendres envers l'association : Fred, Fabienne lune, Eric, Julie, Dominique, Christophe, … Que la vie associative reste le coeur de tout cela.
